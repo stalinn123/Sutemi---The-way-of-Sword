@@ -1,0 +1,1573 @@
+{
+ "file": "97385397-bage2.fbx",
+ "size_mb": 0.73,
+ "fbx_version": 7400,
+ "creator": "Blender (stable FBX IO) - 5.2.0 LTS - 5.15.0",
+ "original_app": "Blender (stable FBX IO) 5.2.0 LTS",
+ "original_file": "/foobar.fbx",
+ "global": {
+  "UpAxis": 1,
+  "UpAxisSign": 1,
+  "FrontAxis": 2,
+  "FrontAxisSign": 1,
+  "CoordAxis": 0,
+  "UnitScaleFactor": 1.0,
+  "OriginalUnitScaleFactor": 1.0,
+  "TimeMode": 11,
+  "CustomFrameRate": 24.0,
+  "TimeSpanStop": 46186158000
+ },
+ "meshes": [
+  {
+   "name": "Circle",
+   "verts": 3,
+   "polys": 0,
+   "tris": 0,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": null,
+   "skinned": false,
+   "model": "Circle",
+   "local_bounds_min": [
+    -0.866,
+    -0.5,
+    0.0
+   ],
+   "local_bounds_max": [
+    0.866,
+    1.0,
+    0.0
+   ]
+  },
+  {
+   "name": "Cube.009",
+   "verts": 24,
+   "polys": 26,
+   "tris": 44,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cube",
+   "local_bounds_min": [
+    -0.65,
+    -0.08,
+    -0.035
+   ],
+   "local_bounds_max": [
+    0.65,
+    0.08,
+    0.035
+   ]
+  },
+  {
+   "name": "Cube.010",
+   "verts": 24,
+   "polys": 26,
+   "tris": 44,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cube.001",
+   "local_bounds_min": [
+    -0.65,
+    -0.08,
+    -0.035
+   ],
+   "local_bounds_max": [
+    0.65,
+    0.08,
+    0.035
+   ]
+  },
+  {
+   "name": "Cube.012",
+   "verts": 24,
+   "polys": 26,
+   "tris": 44,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cube.002",
+   "local_bounds_min": [
+    -0.65,
+    -0.08,
+    -0.035
+   ],
+   "local_bounds_max": [
+    0.65,
+    0.08,
+    0.035
+   ]
+  },
+  {
+   "name": "Cube.017",
+   "verts": 24,
+   "polys": 26,
+   "tris": 44,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cube.003",
+   "local_bounds_min": [
+    -0.65,
+    -0.08,
+    -0.035
+   ],
+   "local_bounds_max": [
+    0.65,
+    0.08,
+    0.035
+   ]
+  },
+  {
+   "name": "Cube.018",
+   "verts": 24,
+   "polys": 26,
+   "tris": 44,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cube.004",
+   "local_bounds_min": [
+    -0.65,
+    -0.08,
+    -0.035
+   ],
+   "local_bounds_max": [
+    0.65,
+    0.08,
+    0.035
+   ]
+  },
+  {
+   "name": "Cube.019",
+   "verts": 24,
+   "polys": 26,
+   "tris": 44,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cube.005",
+   "local_bounds_min": [
+    -0.65,
+    -0.08,
+    -0.035
+   ],
+   "local_bounds_max": [
+    0.65,
+    0.08,
+    0.035
+   ]
+  },
+  {
+   "name": "Cube.020",
+   "verts": 24,
+   "polys": 26,
+   "tris": 44,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cube.006",
+   "local_bounds_min": [
+    -0.65,
+    -0.08,
+    -0.035
+   ],
+   "local_bounds_max": [
+    0.65,
+    0.08,
+    0.035
+   ]
+  },
+  {
+   "name": "Cube.021",
+   "verts": 8,
+   "polys": 6,
+   "tris": 12,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cube.007",
+   "local_bounds_min": [
+    -1.0,
+    -1.0,
+    -1.0
+   ],
+   "local_bounds_max": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "name": "Cube.022",
+   "verts": 112,
+   "polys": 114,
+   "tris": 220,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cube.008",
+   "local_bounds_min": [
+    -0.55,
+    -0.304,
+    -0.12
+   ],
+   "local_bounds_max": [
+    0.55,
+    0.304,
+    0.12
+   ]
+  },
+  {
+   "name": "Cube.023",
+   "verts": 112,
+   "polys": 114,
+   "tris": 220,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cube.009",
+   "local_bounds_min": [
+    -0.55,
+    -0.304,
+    -0.12
+   ],
+   "local_bounds_max": [
+    0.55,
+    0.304,
+    0.12
+   ]
+  },
+  {
+   "name": "Cube.011",
+   "verts": 8,
+   "polys": 6,
+   "tris": 12,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": null,
+   "skinned": false,
+   "model": "Cube.010",
+   "local_bounds_min": [
+    -0.3,
+    -0.2,
+    -0.08
+   ],
+   "local_bounds_max": [
+    0.3,
+    0.2,
+    0.08
+   ]
+  },
+  {
+   "name": "Cube",
+   "verts": 24,
+   "polys": 26,
+   "tris": 44,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cube.011",
+   "local_bounds_min": [
+    -1.35,
+    -0.28,
+    -0.1
+   ],
+   "local_bounds_max": [
+    1.35,
+    0.28,
+    0.1
+   ]
+  },
+  {
+   "name": "Cube.013",
+   "verts": 24,
+   "polys": 26,
+   "tris": 44,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cube.012",
+   "local_bounds_min": [
+    -1.0,
+    -1.0,
+    -1.0
+   ],
+   "local_bounds_max": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "name": "Cube.014",
+   "verts": 24,
+   "polys": 26,
+   "tris": 44,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cube.013",
+   "local_bounds_min": [
+    -1.0,
+    -1.0,
+    -1.0
+   ],
+   "local_bounds_max": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "name": "Cylinder",
+   "verts": 384,
+   "polys": 386,
+   "tris": 764,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cylinder",
+   "local_bounds_min": [
+    -2.994,
+    -2.994,
+    -0.175
+   ],
+   "local_bounds_max": [
+    2.994,
+    2.994,
+    0.175
+   ]
+  },
+  {
+   "name": "Cylinder.001",
+   "verts": 2,
+   "polys": 0,
+   "tris": 0,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": null,
+   "skinned": false,
+   "model": "Cylinder.001",
+   "local_bounds_min": [
+    -0.25,
+    2.538,
+    -0.06
+   ],
+   "local_bounds_max": [
+    -0.25,
+    2.538,
+    0.06
+   ]
+  },
+  {
+   "name": "Cylinder.002",
+   "verts": 384,
+   "polys": 386,
+   "tris": 764,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cylinder.002",
+   "local_bounds_min": [
+    -2.546,
+    -2.546,
+    -0.06
+   ],
+   "local_bounds_max": [
+    2.546,
+    2.546,
+    0.06
+   ]
+  },
+  {
+   "name": "Cylinder.003",
+   "verts": 96,
+   "polys": 98,
+   "tris": 188,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cylinder.003",
+   "local_bounds_min": [
+    -0.071,
+    -0.071,
+    -1.4
+   ],
+   "local_bounds_max": [
+    0.071,
+    0.071,
+    1.4
+   ]
+  },
+  {
+   "name": "Cylinder.007",
+   "verts": 32,
+   "polys": 18,
+   "tris": 60,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cylinder.007",
+   "local_bounds_min": [
+    -0.09,
+    -0.09,
+    -0.35
+   ],
+   "local_bounds_max": [
+    0.09,
+    0.09,
+    0.35
+   ]
+  },
+  {
+   "name": "Torus.003",
+   "verts": 576,
+   "polys": 576,
+   "tris": 1152,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": null,
+   "skinned": false,
+   "model": "Object",
+   "local_bounds_min": [
+    -0.135,
+    -0.135,
+    -0.025
+   ],
+   "local_bounds_max": [
+    0.135,
+    0.135,
+    0.025
+   ]
+  },
+  {
+   "name": "Sphere.001",
+   "verts": 482,
+   "polys": 512,
+   "tris": 960,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Sphere",
+   "local_bounds_min": [
+    -1.0,
+    -1.0,
+    -1.0
+   ],
+   "local_bounds_max": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "name": "Sphere.002",
+   "verts": 482,
+   "polys": 512,
+   "tris": 960,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Sphere.001",
+   "local_bounds_min": [
+    -1.0,
+    -1.0,
+    -1.0
+   ],
+   "local_bounds_max": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "name": "Text",
+   "verts": 1019,
+   "polys": 1003,
+   "tris": 1003,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Text",
+   "local_bounds_min": [
+    0.065,
+    -0.23,
+    0.0
+   ],
+   "local_bounds_max": [
+    7.112,
+    0.691,
+    0.0
+   ]
+  },
+  {
+   "name": "Torus",
+   "verts": 576,
+   "polys": 576,
+   "tris": 1152,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": null,
+   "skinned": false,
+   "model": "Torus",
+   "local_bounds_min": [
+    -0.135,
+    -0.135,
+    -0.025
+   ],
+   "local_bounds_max": [
+    0.135,
+    0.135,
+    0.025
+   ]
+  },
+  {
+   "name": "Torus.001",
+   "verts": 9,
+   "polys": 9,
+   "tris": 18,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": null,
+   "skinned": false,
+   "model": "Torus.001",
+   "local_bounds_min": [
+    -0.175,
+    -0.303,
+    -0.217
+   ],
+   "local_bounds_max": [
+    0.35,
+    0.303,
+    0.217
+   ]
+  },
+  {
+   "name": "Torus.002",
+   "verts": 9,
+   "polys": 9,
+   "tris": 18,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": null,
+   "skinned": false,
+   "model": "Torus.002",
+   "local_bounds_min": [
+    -0.152,
+    -0.264,
+    -0.217
+   ],
+   "local_bounds_max": [
+    0.305,
+    0.264,
+    0.217
+   ]
+  },
+  {
+   "name": "Torus.004",
+   "verts": 576,
+   "polys": 576,
+   "tris": 1152,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Torus.004",
+   "local_bounds_min": [
+    -0.175,
+    -0.175,
+    -0.035
+   ],
+   "local_bounds_max": [
+    0.175,
+    0.175,
+    0.035
+   ]
+  },
+  {
+   "name": "Sphere.004",
+   "verts": 2410,
+   "polys": 2560,
+   "tris": 4800,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "flower",
+   "local_bounds_min": [
+    -2.033,
+    -4.414,
+    -2.09
+   ],
+   "local_bounds_max": [
+    1.0,
+    4.316,
+    1.085
+   ]
+  },
+  {
+   "name": "Sphere.006",
+   "verts": 2410,
+   "polys": 2560,
+   "tris": 4800,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "flower.001",
+   "local_bounds_min": [
+    -2.033,
+    -4.414,
+    -2.09
+   ],
+   "local_bounds_max": [
+    1.0,
+    4.316,
+    1.085
+   ]
+  },
+  {
+   "name": "Sphere.007",
+   "verts": 2410,
+   "polys": 2560,
+   "tris": 4800,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "flower.002",
+   "local_bounds_min": [
+    -2.033,
+    -4.414,
+    -2.09
+   ],
+   "local_bounds_max": [
+    1.0,
+    4.316,
+    1.085
+   ]
+  },
+  {
+   "name": "Sphere.008",
+   "verts": 2410,
+   "polys": 2560,
+   "tris": 4800,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "flower.003",
+   "local_bounds_min": [
+    -2.033,
+    -4.414,
+    -2.09
+   ],
+   "local_bounds_max": [
+    1.0,
+    4.316,
+    1.085
+   ]
+  }
+ ],
+ "totals": {
+  "mesh_count": 32,
+  "verts": 14750,
+  "tris": 28295
+ },
+ "world_bounds_fbx_units": {
+  "min": [
+   -266.453,
+   -15.574,
+   -266.453
+  ],
+  "max": [
+   266.453,
+   2413.5,
+   266.453
+  ],
+  "size": [
+   532.906,
+   2429.074,
+   532.906
+  ]
+ },
+ "world_size_meters_est": [
+  5.329,
+  24.291,
+  5.329
+ ],
+ "model_types": {
+  "Camera": 1,
+  "Mesh": 32,
+  "Light": 1
+ },
+ "hierarchy": [
+  "Camera [Camera]",
+  "Circle [Mesh]",
+  "Cube [Mesh]",
+  "Cube.001 [Mesh]",
+  "Cube.002 [Mesh]",
+  "Cube.003 [Mesh]",
+  "Cube.004 [Mesh]",
+  "Cube.005 [Mesh]",
+  "Cube.006 [Mesh]",
+  "Cube.007 [Mesh]",
+  "Cube.008 [Mesh]",
+  "Cube.009 [Mesh]",
+  "Cube.010 [Mesh]",
+  "Cube.011 [Mesh]",
+  "Cube.012 [Mesh]",
+  "Cube.013 [Mesh]",
+  "Cylinder [Mesh]",
+  "Cylinder.001 [Mesh]",
+  "Cylinder.002 [Mesh]",
+  "Cylinder.003 [Mesh]",
+  "Cylinder.007 [Mesh]",
+  "Light [Light]",
+  "Object [Mesh]",
+  "Sphere [Mesh]",
+  "Sphere.001 [Mesh]",
+  "Text [Mesh]",
+  "Torus [Mesh]",
+  "Torus.001 [Mesh]",
+  "Torus.002 [Mesh]",
+  "Torus.004 [Mesh]",
+  "flower [Mesh]",
+  "flower.001 [Mesh]",
+  "flower.002 [Mesh]",
+  "flower.003 [Mesh]"
+ ],
+ "root_transforms": [
+  {
+   "name": "Camera",
+   "T": [
+    735.889,
+    495.831,
+    692.579
+   ],
+   "R": [
+    22.77,
+    142.11,
+    34.35
+   ],
+   "S": [
+    100.0,
+    100.0,
+    100.0
+   ]
+  },
+  {
+   "name": "Circle",
+   "T": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "R": [
+    -90.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    100.0,
+    100.0,
+    100.0
+   ]
+  },
+  {
+   "name": "Cube",
+   "T": [
+    0.0,
+    72.029,
+    0.0
+   ],
+   "R": [
+    -90.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    107.0,
+    100.0,
+    100.0
+   ]
+  },
+  {
+   "name": "Cube.001",
+   "T": [
+    0.0,
+    72.029,
+    -30.92
+   ],
+   "R": [
+    -90.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    107.0,
+    100.0,
+    100.0
+   ]
+  },
+  {
+   "name": "Cube.002",
+   "T": [
+    0.0,
+    72.029,
+    -60.304
+   ],
+   "R": [
+    -90.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    93.0,
+    100.0,
+    100.0
+   ]
+  },
+  {
+   "name": "Cube.003",
+   "T": [
+    0.0,
+    72.029,
+    -88.464
+   ],
+   "R": [
+    -90.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    70.0,
+    100.0,
+    100.0
+   ]
+  },
+  {
+   "name": "Cube.004",
+   "T": [
+    0.0,
+    72.029,
+    31.966
+   ],
+   "R": [
+    -90.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    105.0,
+    100.0,
+    100.0
+   ]
+  },
+  {
+   "name": "Cube.005",
+   "T": [
+    0.0,
+    72.029,
+    60.485
+   ],
+   "R": [
+    -90.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    92.0,
+    100.0,
+    100.0
+   ]
+  },
+  {
+   "name": "Cube.006",
+   "T": [
+    0.0,
+    72.029,
+    87.953
+   ],
+   "R": [
+    -90.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    70.0,
+    100.0,
+    100.0
+   ]
+  },
+  {
+   "name": "Cube.007",
+   "T": [
+    0.0,
+    78.327,
+    0.0
+   ],
+   "R": [
+    -9.82,
+    -90.16,
+    -74.29
+   ],
+   "S": [
+    113.0496,
+    5.0,
+    5.0002
+   ]
+  },
+  {
+   "name": "Cube.008",
+   "T": [
+    -83.0,
+    30.004,
+    67.0
+   ],
+   "R": [
+    -90.0,
+    -145.0,
+    0.0
+   ],
+   "S": [
+    166.7016,
+    166.7016,
+    166.7016
+   ]
+  },
+  {
+   "name": "Cube.009",
+   "T": [
+    83.04,
+    30.476,
+    67.867
+   ],
+   "R": [
+    -90.0,
+    -33.0,
+    -0.0
+   ],
+   "S": [
+    166.7016,
+    166.7016,
+    166.7016
+   ]
+  },
+  {
+   "name": "Cube.010",
+   "T": [
+    0.0,
+    35.0,
+    85.0
+   ],
+   "R": [
+    -90.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    100.0,
+    100.0,
+    100.0
+   ]
+  },
+  {
+   "name": "Cube.011",
+   "T": [
+    0.0,
+    40.15,
+    183.0
+   ],
+   "R": [
+    -90.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    115.0,
+    100.0,
+    100.0
+   ]
+  },
+  {
+   "name": "Cube.012",
+   "T": [
+    -133.678,
+    27.777,
+    175.904
+   ],
+   "R": [
+    -90.0,
+    -12.0,
+    0.0
+   ],
+   "S": [
+    35.0,
+    28.0,
+    10.0
+   ]
+  }
+ ],
+ "skeleton": {
+  "bone_count": 0,
+  "bones": []
+ },
+ "skin": {
+  "skins": 0,
+  "clusters": 0,
+  "blendshapes": 0
+ },
+ "poses": [],
+ "materials": [
+  {
+   "name": "Material.010",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "Material.009",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "Material.008",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "Material.007",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "Material.011",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "Material.012",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "Material.013",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "Material.014",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "Material.016",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "Material.015",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "Material.021",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "Material.022",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "Material.023",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "Material",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "Material.002",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "Material.018",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "Material.019",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "Material.001",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": null,
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "Material.017",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "Material.024",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "Material.020",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "Material.005",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "Material.004",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "Material.003",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "Material.006",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": []
+  }
+ ],
+ "textures": [],
+ "videos": [],
+ "animations": []
+}

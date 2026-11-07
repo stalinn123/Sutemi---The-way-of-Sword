@@ -1,0 +1,14 @@
+{
+    "name": "Kendo.AI",
+    "rootNamespace": "Kendo.AI",
+    "references": ["Kendo.Rules"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

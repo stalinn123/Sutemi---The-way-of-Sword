@@ -1,0 +1,1644 @@
+{
+ "file": "80fbc9fc-samurai_and_sword.fbx",
+ "size_mb": 5.61,
+ "fbx_version": 7400,
+ "creator": "Blender (stable FBX IO) - 4.4.3 - 5.12.7",
+ "original_app": "Blender (stable FBX IO) 4.4.3",
+ "original_file": "/foobar.fbx",
+ "global": {
+  "UpAxis": 1,
+  "UpAxisSign": 1,
+  "FrontAxis": 2,
+  "FrontAxisSign": 1,
+  "CoordAxis": 0,
+  "UnitScaleFactor": 1.0,
+  "OriginalUnitScaleFactor": 1.0,
+  "TimeMode": 11,
+  "CustomFrameRate": 24.0,
+  "TimeSpanStop": 46186158000
+ },
+ "meshes": [
+  {
+   "name": "Mesh.020",
+   "verts": 3192,
+   "polys": 3174,
+   "tris": 6346,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "DiffuseUV",
+    "map1"
+   ],
+   "vertex_colors": true,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Calzado_low",
+   "local_bounds_min": [
+    -68.037,
+    -220.496,
+    -30.508
+   ],
+   "local_bounds_max": [
+    68.037,
+    -198.951,
+    37.96
+   ]
+  },
+  {
+   "name": "Mesh.022",
+   "verts": 11054,
+   "polys": 11048,
+   "tris": 22096,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Capa_low",
+   "local_bounds_min": [
+    -110.089,
+    -173.347,
+    -92.176
+   ],
+   "local_bounds_max": [
+    110.089,
+    152.328,
+    27.419
+   ]
+  },
+  {
+   "name": "Mesh.023",
+   "verts": 16962,
+   "polys": 16996,
+   "tris": 33880,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": true,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cuerpo_low",
+   "local_bounds_min": [
+    -164.58,
+    -210.996,
+    -34.938
+   ],
+   "local_bounds_max": [
+    164.58,
+    211.663,
+    35.468
+   ]
+  },
+  {
+   "name": "Cylinder.002",
+   "verts": 15641,
+   "polys": 15584,
+   "tris": 31168,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cylinder",
+   "local_bounds_min": [
+    -0.014,
+    -0.014,
+    -0.5
+   ],
+   "local_bounds_max": [
+    0.014,
+    0.014,
+    0.5
+   ]
+  },
+  {
+   "name": "Cylinder.003",
+   "verts": 1682,
+   "polys": 1680,
+   "tris": 3360,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cylinder.001",
+   "local_bounds_min": [
+    -0.01,
+    -0.01,
+    -0.5
+   ],
+   "local_bounds_max": [
+    0.01,
+    0.01,
+    0.5
+   ]
+  },
+  {
+   "name": "Mesh.013",
+   "verts": 766,
+   "polys": 820,
+   "tris": 1520,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Frasco_low",
+   "local_bounds_min": [
+    -26.241,
+    -10.937,
+    26.208
+   ],
+   "local_bounds_max": [
+    -10.616,
+    21.758,
+    40.766
+   ]
+  },
+  {
+   "name": "Mesh.024",
+   "verts": 17824,
+   "polys": 17595,
+   "tris": 35190,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Lompa_low",
+   "local_bounds_min": [
+    -74.56,
+    -124.795,
+    -53.542
+   ],
+   "local_bounds_max": [
+    74.56,
+    67.749,
+    41.323
+   ]
+  },
+  {
+   "name": "Mesh.012",
+   "verts": 7818,
+   "polys": 7201,
+   "tris": 14401,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Masc_low",
+   "local_bounds_min": [
+    -18.924,
+    151.029,
+    6.785
+   ],
+   "local_bounds_max": [
+    18.924,
+    209.816,
+    36.255
+   ]
+  },
+  {
+   "name": "Mesh.019",
+   "verts": 1622,
+   "polys": 1594,
+   "tris": 3174,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1",
+    "map11"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Medias_low",
+   "local_bounds_min": [
+    -62.853,
+    -211.761,
+    -34.99
+   ],
+   "local_bounds_max": [
+    62.853,
+    -104.604,
+    36.157
+   ]
+  },
+  {
+   "name": "Mesh.016",
+   "verts": 1588,
+   "polys": 1584,
+   "tris": 3072,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Ojos_low",
+   "local_bounds_min": [
+    -11.453,
+    182.148,
+    20.759
+   ],
+   "local_bounds_max": [
+    11.453,
+    190.597,
+    26.021
+   ]
+  },
+  {
+   "name": "Mesh.025",
+   "verts": 19363,
+   "polys": 19349,
+   "tris": 38698,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Parte_Arriba_low",
+   "local_bounds_min": [
+    -141.011,
+    10.618,
+    -36.739
+   ],
+   "local_bounds_max": [
+    141.167,
+    165.949,
+    33.629
+   ]
+  },
+  {
+   "name": "Plane.004",
+   "verts": 4,
+   "polys": 1,
+   "tris": 2,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": null,
+   "skinned": false,
+   "model": "Plane",
+   "local_bounds_min": [
+    -1.0,
+    -1.0,
+    0.0
+   ],
+   "local_bounds_max": [
+    1.0,
+    1.0,
+    0.0
+   ]
+  },
+  {
+   "name": "Mesh.015",
+   "verts": 342,
+   "polys": 360,
+   "tris": 680,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Sombrero_low",
+   "local_bounds_min": [
+    -61.537,
+    185.646,
+    -55.368
+   ],
+   "local_bounds_max": [
+    61.582,
+    220.513,
+    67.751
+   ]
+  },
+  {
+   "name": "Torus.006",
+   "verts": 528,
+   "polys": 528,
+   "tris": 1056,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Torus",
+   "local_bounds_min": [
+    -1.182,
+    -1.182,
+    -0.234
+   ],
+   "local_bounds_max": [
+    1.182,
+    1.182,
+    0.234
+   ]
+  },
+  {
+   "name": "Torus.007",
+   "verts": 528,
+   "polys": 528,
+   "tris": 1056,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Torus.001",
+   "local_bounds_min": [
+    -1.182,
+    -1.182,
+    -0.234
+   ],
+   "local_bounds_max": [
+    1.182,
+    1.182,
+    0.234
+   ]
+  },
+  {
+   "name": "Torus.008",
+   "verts": 528,
+   "polys": 528,
+   "tris": 1056,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Torus.002",
+   "local_bounds_min": [
+    -1.182,
+    -1.182,
+    -0.234
+   ],
+   "local_bounds_max": [
+    1.182,
+    1.182,
+    0.234
+   ]
+  },
+  {
+   "name": "Torus.009",
+   "verts": 528,
+   "polys": 528,
+   "tris": 1056,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Torus.003",
+   "local_bounds_min": [
+    -1.182,
+    -1.182,
+    -0.234
+   ],
+   "local_bounds_max": [
+    1.182,
+    1.182,
+    0.234
+   ]
+  },
+  {
+   "name": "Torus.010",
+   "verts": 528,
+   "polys": 528,
+   "tris": 1056,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Torus.005",
+   "local_bounds_min": [
+    -0.906,
+    -0.906,
+    -0.384
+   ],
+   "local_bounds_max": [
+    0.906,
+    0.906,
+    0.384
+   ]
+  }
+ ],
+ "totals": {
+  "mesh_count": 18,
+  "verts": 100498,
+  "tris": 198867
+ },
+ "world_bounds_fbx_units": {
+  "min": [
+   -16761.049,
+   -0.003,
+   -16761.049
+  ],
+  "max": [
+   16761.049,
+   474.109,
+   16761.049
+  ],
+  "size": [
+   33522.098,
+   474.111,
+   33522.098
+  ]
+ },
+ "world_size_meters_est": [
+  335.221,
+  4.741,
+  335.221
+ ],
+ "model_types": {
+  "Mesh": 18,
+  "Camera": 2,
+  "Light": 4,
+  "Null": 1
+ },
+ "hierarchy": [
+  "Camera [Camera]",
+  "Camera.001 [Camera]",
+  "Cylinder [Mesh]",
+  "Cylinder.001 [Mesh]",
+  "Light [Light]",
+  "Personaje_low [Null]",
+  "  Calzado_low [Mesh]",
+  "  Capa_low [Mesh]",
+  "  Cuerpo_low [Mesh]",
+  "  Frasco_low [Mesh]",
+  "  Lompa_low [Mesh]",
+  "  Masc_low [Mesh]",
+  "  Medias_low [Mesh]",
+  "  Ojos_low [Mesh]",
+  "  Parte_Arriba_low [Mesh]",
+  "  Sombrero_low [Mesh]",
+  "Plane [Mesh]",
+  "Spot [Light]",
+  "Sun [Light]",
+  "Sun.001 [Light]",
+  "Torus [Mesh]",
+  "Torus.001 [Mesh]",
+  "Torus.002 [Mesh]",
+  "Torus.003 [Mesh]",
+  "Torus.005 [Mesh]"
+ ],
+ "root_transforms": [
+  {
+   "name": "Camera",
+   "T": [
+    5117.607,
+    404.697,
+    2247.759
+   ],
+   "R": [
+    -51.22,
+    82.32,
+    -51.47
+   ],
+   "S": [
+    100.0,
+    100.0,
+    100.0
+   ]
+  },
+  {
+   "name": "Camera.001",
+   "T": [
+    6279.664,
+    766.27,
+    684.462
+   ],
+   "R": [
+    22.77,
+    142.11,
+    34.35
+   ],
+   "S": [
+    98.705,
+    98.705,
+    98.705
+   ]
+  },
+  {
+   "name": "Cylinder",
+   "T": [
+    5553.305,
+    291.97,
+    0.798
+   ],
+   "R": [
+    -90.0,
+    -0.0,
+    0.0
+   ],
+   "S": [
+    455.5518,
+    455.5518,
+    319.8426
+   ]
+  },
+  {
+   "name": "Cylinder.001",
+   "T": [
+    5553.305,
+    162.676,
+    0.859
+   ],
+   "R": [
+    -90.0,
+    -0.0,
+    0.0
+   ],
+   "S": [
+    569.4107,
+    569.4107,
+    63.6764
+   ]
+  },
+  {
+   "name": "Light",
+   "T": [
+    5955.65,
+    859.6,
+    -98.391
+   ],
+   "R": [
+    47.53,
+    107.22,
+    10.74
+   ],
+   "S": [
+    98.705,
+    98.705,
+    98.705
+   ]
+  },
+  {
+   "name": "Personaje_low",
+   "T": [
+    5262.01,
+    253.596,
+    0.0
+   ],
+   "R": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "name": "Plane",
+   "T": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "R": [
+    -90.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    -16761.0488,
+    -16761.0488,
+    -16761.0488
+   ]
+  },
+  {
+   "name": "Spot",
+   "T": [
+    5262.01,
+    461.029,
+    1474.331
+   ],
+   "R": [
+    88.66,
+    -0.8,
+    -29.87
+   ],
+   "S": [
+    100.0,
+    100.0,
+    100.0
+   ]
+  },
+  {
+   "name": "Sun",
+   "T": [
+    5262.85,
+    1180.388,
+    1717.39
+   ],
+   "R": [
+    60.81,
+    -0.37,
+    0.63
+   ],
+   "S": [
+    100.0,
+    100.0,
+    100.0
+   ]
+  },
+  {
+   "name": "Sun.001",
+   "T": [
+    5262.01,
+    214.376,
+    -815.61
+   ],
+   "R": [
+    -85.93,
+    -8.35,
+    8.51
+   ],
+   "S": [
+    100.0,
+    100.0,
+    100.0
+   ]
+  },
+  {
+   "name": "Torus",
+   "T": [
+    5553.305,
+    273.652,
+    0.798
+   ],
+   "R": [
+    -90.0,
+    -0.0,
+    0.0
+   ],
+   "S": [
+    5.2294,
+    5.2294,
+    5.2294
+   ]
+  },
+  {
+   "name": "Torus.001",
+   "T": [
+    5553.305,
+    203.039,
+    0.798
+   ],
+   "R": [
+    -90.0,
+    -0.0,
+    0.0
+   ],
+   "S": [
+    5.5171,
+    5.5171,
+    5.5171
+   ]
+  },
+  {
+   "name": "Torus.002",
+   "T": [
+    5553.305,
+    351.706,
+    0.798
+   ],
+   "R": [
+    -90.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    4.1006,
+    4.1006,
+    4.1006
+   ]
+  },
+  {
+   "name": "Torus.003",
+   "T": [
+    5553.305,
+    435.769,
+    0.798
+   ],
+   "R": [
+    -90.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    4.1006,
+    4.1006,
+    4.1006
+   ]
+  },
+  {
+   "name": "Torus.005",
+   "T": [
+    5553.305,
+    189.952,
+    1.221
+   ],
+   "R": [
+    -90.0,
+    -0.0,
+    0.0
+   ],
+   "S": [
+    13.6898,
+    13.6898,
+    4.7366
+   ]
+  }
+ ],
+ "skeleton": {
+  "bone_count": 0,
+  "bones": []
+ },
+ "skin": {
+  "skins": 0,
+  "clusters": 0,
+  "blendshapes": 0
+ },
+ "poses": [],
+ "materials": [
+  {
+   "name": "Zapas_Mat1.001",
+   "shading": "Phong",
+   "diffuse": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "emissive": null,
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_BaseColor.jpg"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Normal.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Roughness.jpg"
+    },
+    {
+     "slot": "ReflectionFactor",
+     "texture": "metallic_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Metallic.jpg"
+    }
+   ]
+  },
+  {
+   "name": "Capa_mat.001",
+   "shading": "Phong",
+   "diffuse": [
+    1.0,
+    0.0,
+    0.007
+   ],
+   "emissive": null,
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricPlainNaturalSheer009/FabricPlainNaturalSheer009_COL_2K.jpg"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricPlainNaturalSheer009/FabricPlainNaturalSheer009_NRM_2K.png"
+    }
+   ]
+  },
+  {
+   "name": "Cuerpo_low_mat.001",
+   "shading": "Phong",
+   "diffuse": [
+    0.584,
+    0.223,
+    0.138
+   ],
+   "emissive": null,
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "Material.003",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_BaseColor.jpg"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Normal.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Roughness.jpg"
+    }
+   ]
+  },
+  {
+   "name": "Material.004",
+   "shading": "Phong",
+   "diffuse": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_COL_VAR1_2K.jpg"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg"
+    }
+   ]
+  },
+  {
+   "name": "Frasco_Mat1.001",
+   "shading": "Phong",
+   "diffuse": [
+    0.001,
+    0.499,
+    0.0
+   ],
+   "emissive": null,
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "Lompa_low_mat.001",
+   "shading": "Phong",
+   "diffuse": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "emissive": null,
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /TowelCotton001/TowelCotton001_NRM_1K.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /TowelCotton001/TowelCotton001_ROUGHNESS_1K_METALNESS.png"
+    },
+    {
+     "slot": "ReflectionFactor",
+     "texture": "metallic_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /TowelCotton001/TowelCotton001_AO_1K_METALNESS.png"
+    }
+   ]
+  },
+  {
+   "name": "Masc_mat.001",
+   "shading": "Phong",
+   "diffuse": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "emissive": null,
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalBronzeWorn_7248/2K/Poliigon_MetalBronzeWorn_7248_BaseColor.jpg"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalBronzeWorn_7248/2K/Poliigon_MetalBronzeWorn_7248_Normal.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalBronzeWorn_7248/2K/Poliigon_MetalBronzeWorn_7248_Roughness.jpg"
+    },
+    {
+     "slot": "ReflectionFactor",
+     "texture": "metallic_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalBronzeWorn_7248/2K/Poliigon_MetalBronzeWorn_7248_Metallic.jpg"
+    }
+   ]
+  },
+  {
+   "name": "Medias_mat1.001",
+   "shading": "Phong",
+   "diffuse": [
+    0.664,
+    0.664,
+    0.664
+   ],
+   "emissive": null,
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /TowelCotton001/TowelCotton001_COL_1K.png"
+    },
+    {
+     "slot": "ReflectionFactor",
+     "texture": "metallic_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /TowelCotton001/TowelCotton001_COL_1K_METALNESS.png"
+    }
+   ]
+  },
+  {
+   "name": "Material.002",
+   "shading": "Phong",
+   "diffuse": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_BaseColor.jpg"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Normal.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Roughness.jpg"
+    },
+    {
+     "slot": "ReflectionFactor",
+     "texture": "metallic_texture",
+     "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Metallic.jpg"
+    }
+   ]
+  },
+  {
+   "name": "Parte_Arriba_mat.001",
+   "shading": "Phong",
+   "diffuse": [
+    0.509,
+    0.0,
+    0.002
+   ],
+   "emissive": null,
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /TowelCotton001/TowelCotton001_NRM_1K.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /TowelCotton001/TowelCotton001_ROUGHNESS_1K_METALNESS.png"
+    },
+    {
+     "slot": "ReflectionFactor",
+     "texture": "metallic_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /TowelCotton001/TowelCotton001_AO_1K_METALNESS.png"
+    }
+   ]
+  },
+  {
+   "name": "Sombrero_Mat.001",
+   "shading": "Phong",
+   "diffuse": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "emissive": null,
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_BaseColor.jpg"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Normal.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Roughness.jpg"
+    },
+    {
+     "slot": "ReflectionFactor",
+     "texture": "metallic_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Metallic.jpg"
+    }
+   ]
+  },
+  {
+   "name": "Material.006",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricPlainNaturalSheer009/FabricPlainNaturalSheer009_COL_2K.jpg"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricPlainNaturalSheer009/FabricPlainNaturalSheer009_NRM_2K.png"
+    }
+   ]
+  },
+  {
+   "name": "Material.007",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricPlainNaturalSheer009/FabricPlainNaturalSheer009_COL_2K.jpg"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricPlainNaturalSheer009/FabricPlainNaturalSheer009_NRM_2K.png"
+    }
+   ]
+  },
+  {
+   "name": "Material.008",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricPlainNaturalSheer009/FabricPlainNaturalSheer009_COL_2K.jpg"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricPlainNaturalSheer009/FabricPlainNaturalSheer009_NRM_2K.png"
+    }
+   ]
+  },
+  {
+   "name": "Material.005",
+   "shading": "Phong",
+   "diffuse": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricPlainNaturalSheer009/FabricPlainNaturalSheer009_COL_2K.jpg"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricPlainNaturalSheer009/FabricPlainNaturalSheer009_NRM_2K.png"
+    }
+   ]
+  },
+  {
+   "name": "Material.009",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_BaseColor.jpg"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Normal.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Roughness.jpg"
+    }
+   ]
+  }
+ ],
+ "textures": [
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_BaseColor.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_BaseColor.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Normal.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Normal.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Roughness.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Roughness.jpg"
+  },
+  {
+   "name": "metallic_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Metallic.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Metallic.jpg"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricPlainNaturalSheer009/FabricPlainNaturalSheer009_COL_2K.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /FabricPlainNaturalSheer009/FabricPlainNaturalSheer009_COL_2K.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricPlainNaturalSheer009/FabricPlainNaturalSheer009_NRM_2K.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /FabricPlainNaturalSheer009/FabricPlainNaturalSheer009_NRM_2K.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_BaseColor.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_BaseColor.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Normal.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Normal.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Roughness.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Roughness.jpg"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_COL_VAR1_2K.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_COL_VAR1_2K.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /TowelCotton001/TowelCotton001_NRM_1K.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /TowelCotton001/TowelCotton001_NRM_1K.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /TowelCotton001/TowelCotton001_ROUGHNESS_1K_METALNESS.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /TowelCotton001/TowelCotton001_ROUGHNESS_1K_METALNESS.png"
+  },
+  {
+   "name": "metallic_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /TowelCotton001/TowelCotton001_AO_1K_METALNESS.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /TowelCotton001/TowelCotton001_AO_1K_METALNESS.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalBronzeWorn_7248/2K/Poliigon_MetalBronzeWorn_7248_BaseColor.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalBronzeWorn_7248/2K/Poliigon_MetalBronzeWorn_7248_BaseColor.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalBronzeWorn_7248/2K/Poliigon_MetalBronzeWorn_7248_Normal.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalBronzeWorn_7248/2K/Poliigon_MetalBronzeWorn_7248_Normal.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalBronzeWorn_7248/2K/Poliigon_MetalBronzeWorn_7248_Roughness.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalBronzeWorn_7248/2K/Poliigon_MetalBronzeWorn_7248_Roughness.jpg"
+  },
+  {
+   "name": "metallic_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalBronzeWorn_7248/2K/Poliigon_MetalBronzeWorn_7248_Metallic.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalBronzeWorn_7248/2K/Poliigon_MetalBronzeWorn_7248_Metallic.jpg"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /TowelCotton001/TowelCotton001_COL_1K.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /TowelCotton001/TowelCotton001_COL_1K.png"
+  },
+  {
+   "name": "metallic_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /TowelCotton001/TowelCotton001_COL_1K_METALNESS.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /TowelCotton001/TowelCotton001_COL_1K_METALNESS.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_BaseColor.jpg",
+   "relative": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_BaseColor.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Normal.png",
+   "relative": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Normal.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Roughness.jpg",
+   "relative": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Roughness.jpg"
+  },
+  {
+   "name": "metallic_texture",
+   "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Metallic.jpg",
+   "relative": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Metallic.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /TowelCotton001/TowelCotton001_NRM_1K.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /TowelCotton001/TowelCotton001_NRM_1K.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /TowelCotton001/TowelCotton001_ROUGHNESS_1K_METALNESS.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /TowelCotton001/TowelCotton001_ROUGHNESS_1K_METALNESS.png"
+  },
+  {
+   "name": "metallic_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /TowelCotton001/TowelCotton001_AO_1K_METALNESS.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /TowelCotton001/TowelCotton001_AO_1K_METALNESS.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_BaseColor.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_BaseColor.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Normal.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Normal.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Roughness.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Roughness.jpg"
+  },
+  {
+   "name": "metallic_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Metallic.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Metallic.jpg"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricPlainNaturalSheer009/FabricPlainNaturalSheer009_COL_2K.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /FabricPlainNaturalSheer009/FabricPlainNaturalSheer009_COL_2K.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricPlainNaturalSheer009/FabricPlainNaturalSheer009_NRM_2K.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /FabricPlainNaturalSheer009/FabricPlainNaturalSheer009_NRM_2K.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricPlainNaturalSheer009/FabricPlainNaturalSheer009_COL_2K.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /FabricPlainNaturalSheer009/FabricPlainNaturalSheer009_COL_2K.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricPlainNaturalSheer009/FabricPlainNaturalSheer009_NRM_2K.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /FabricPlainNaturalSheer009/FabricPlainNaturalSheer009_NRM_2K.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricPlainNaturalSheer009/FabricPlainNaturalSheer009_COL_2K.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /FabricPlainNaturalSheer009/FabricPlainNaturalSheer009_COL_2K.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricPlainNaturalSheer009/FabricPlainNaturalSheer009_NRM_2K.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /FabricPlainNaturalSheer009/FabricPlainNaturalSheer009_NRM_2K.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricPlainNaturalSheer009/FabricPlainNaturalSheer009_COL_2K.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /FabricPlainNaturalSheer009/FabricPlainNaturalSheer009_COL_2K.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricPlainNaturalSheer009/FabricPlainNaturalSheer009_NRM_2K.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /FabricPlainNaturalSheer009/FabricPlainNaturalSheer009_NRM_2K.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_BaseColor.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_BaseColor.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Normal.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Normal.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Roughness.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Roughness.jpg"
+  }
+ ],
+ "videos": [
+  {
+   "name": "Poliigon_WoodVeneerOak_7760_BaseColor.jpg",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_BaseColor.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_WoodVeneerOak_7760_Normal.png",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Normal.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_WoodVeneerOak_7760_Roughness.jpg",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Roughness.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_WoodVeneerOak_7760_Metallic.jpg",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Metallic.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "FabricPlainNaturalSheer009_COL_2K.jpg",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricPlainNaturalSheer009/FabricPlainNaturalSheer009_COL_2K.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "FabricPlainNaturalSheer009_NRM_2K.png",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricPlainNaturalSheer009/FabricPlainNaturalSheer009_NRM_2K.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "FabricLeatherCowhide001_COL_VAR1_2K.jpg",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_COL_VAR1_2K.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "FabricLeatherCowhide001_NRM_2K.jpg",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "TowelCotton001_NRM_1K.png",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /TowelCotton001/TowelCotton001_NRM_1K.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "TowelCotton001_ROUGHNESS_1K_METALNESS.png",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /TowelCotton001/TowelCotton001_ROUGHNESS_1K_METALNESS.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "TowelCotton001_AO_1K_METALNESS.png",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /TowelCotton001/TowelCotton001_AO_1K_METALNESS.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_MetalBronzeWorn_7248_BaseColor.jpg",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalBronzeWorn_7248/2K/Poliigon_MetalBronzeWorn_7248_BaseColor.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_MetalBronzeWorn_7248_Normal.png",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalBronzeWorn_7248/2K/Poliigon_MetalBronzeWorn_7248_Normal.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_MetalBronzeWorn_7248_Roughness.jpg",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalBronzeWorn_7248/2K/Poliigon_MetalBronzeWorn_7248_Roughness.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_MetalBronzeWorn_7248_Metallic.jpg",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalBronzeWorn_7248/2K/Poliigon_MetalBronzeWorn_7248_Metallic.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "TowelCotton001_COL_1K.png",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /TowelCotton001/TowelCotton001_COL_1K.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "TowelCotton001_COL_1K_METALNESS.png",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /TowelCotton001/TowelCotton001_COL_1K_METALNESS.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_MetalGoldPaint_7253_BaseColor.jpg",
+   "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_BaseColor.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_MetalGoldPaint_7253_Normal.png",
+   "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Normal.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_MetalGoldPaint_7253_Roughness.jpg",
+   "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Roughness.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_MetalGoldPaint_7253_Metallic.jpg",
+   "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Metallic.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_RattanWeave_6945_BaseColor.jpg",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_BaseColor.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_RattanWeave_6945_Normal.png",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Normal.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_RattanWeave_6945_Roughness.jpg",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Roughness.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_RattanWeave_6945_Metallic.jpg",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Metallic.jpg",
+   "embedded_bytes": 0
+  }
+ ],
+ "animations": [
+  {
+   "name": "Lompa_low|Lompa_low|Take 001|BaseLayer",
+   "start_s": 0.0,
+   "stop_s": 0.0,
+   "duration_s": 0.0,
+   "layers": 1,
+   "curve_nodes": 7,
+   "total_keys": 13,
+   "last_key_s": 0.0,
+   "animated_nodes": 0,
+   "animated_sample": []
+  },
+  {
+   "name": "Lompa_low|Lompa_low|Take 001|BaseLayer.001",
+   "start_s": 0.0,
+   "stop_s": 0.0,
+   "duration_s": 0.0,
+   "layers": 1,
+   "curve_nodes": 7,
+   "total_keys": 13,
+   "last_key_s": 0.0,
+   "animated_nodes": 0,
+   "animated_sample": []
+  }
+ ]
+}

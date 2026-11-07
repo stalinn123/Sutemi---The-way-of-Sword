@@ -1,0 +1,6 @@
+imitation accuracy (held-out half of stream): {'aggressive_men': 0.859, 'defensive_counter': 0.811, 'kote_mover': 0.801}
+eval@0 {'easy': 0.9, 'medium': 0.575, 'hard': 0.4, 'former_student': 0.15, 'imit_aggressive_men': 0.95, 'imit_defensive_counter': 0.075}
+1000000 steps  124s  train win 0.65  eval {'easy': 0.95, 'medium': 0.6, 'hard': 0.425, 'former_student': 0.15, 'imit_aggressive_men': 0.875, 'imit_defensive_counter': 0.0}
+2000000 steps  224s  train win 0.65  eval {'easy': 0.95, 'medium': 0.725, 'hard': 0.525, 'former_student': 0.5, 'imit_aggressive_men': 0.85, 'imit_defensive_counter': 0.0}
+3000000 steps  327s  train win 0.64  eval {'easy': 0.95, 'medium': 0.625, 'hard': 0.375, 'former_student': 0.35, 'imit_aggressive_men': 0.85, 'imit_defensive_counter': 0.0}
+4000000 steps  418s  train win 0.71  eval {'easy': 0.95, 'medium': 0.725, 'hard': 0.225, 'former_student': 0.275, 'imit_aggressive_men': 0.875, 'imit_defensive_counter': 0.0}

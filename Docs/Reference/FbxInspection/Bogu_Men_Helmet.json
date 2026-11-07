@@ -1,0 +1,1467 @@
+{
+ "file": "ff09dffe-helmate1.fbx",
+ "size_mb": 3.22,
+ "fbx_version": 7400,
+ "creator": "Blender (stable FBX IO) - 4.4.3 - 5.12.7",
+ "original_app": "Blender (stable FBX IO) 4.4.3",
+ "original_file": "/foobar.fbx",
+ "global": {
+  "UpAxis": 1,
+  "UpAxisSign": 1,
+  "FrontAxis": 2,
+  "FrontAxisSign": 1,
+  "CoordAxis": 0,
+  "UnitScaleFactor": 1.0,
+  "OriginalUnitScaleFactor": 1.0,
+  "TimeMode": 11,
+  "CustomFrameRate": 24.0,
+  "TimeSpanStop": 46186158000
+ },
+ "meshes": [
+  {
+   "name": "Sphere.057",
+   "verts": 42,
+   "polys": 48,
+   "tris": 80,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Border Stitch",
+   "local_bounds_min": [
+    -1.0,
+    -1.0,
+    -1.0
+   ],
+   "local_bounds_max": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "name": "Cage Bar 1",
+   "verts": 2430,
+   "polys": 2416,
+   "tris": 4816,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cage Bar 1",
+   "local_bounds_min": [
+    -0.313,
+    -0.641,
+    1.199
+   ],
+   "local_bounds_max": [
+    0.313,
+    -0.298,
+    1.253
+   ]
+  },
+  {
+   "name": "Cage Bar 10",
+   "verts": 2430,
+   "polys": 2416,
+   "tris": 4816,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cage Bar 10",
+   "local_bounds_min": [
+    -0.571,
+    -0.925,
+    2.57
+   ],
+   "local_bounds_max": [
+    0.571,
+    -0.298,
+    2.623
+   ]
+  },
+  {
+   "name": "Cage Bar 11",
+   "verts": 2430,
+   "polys": 2416,
+   "tris": 4816,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cage Bar 11",
+   "local_bounds_min": [
+    -0.521,
+    -0.87,
+    2.722
+   ],
+   "local_bounds_max": [
+    0.521,
+    -0.298,
+    2.775
+   ]
+  },
+  {
+   "name": "Cage Bar 12",
+   "verts": 2430,
+   "polys": 2416,
+   "tris": 4816,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cage Bar 12",
+   "local_bounds_min": [
+    -0.447,
+    -0.789,
+    2.874
+   ],
+   "local_bounds_max": [
+    0.447,
+    -0.298,
+    2.927
+   ]
+  },
+  {
+   "name": "Cage Bar 13",
+   "verts": 2430,
+   "polys": 2416,
+   "tris": 4816,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cage Bar 13",
+   "local_bounds_min": [
+    -0.334,
+    -0.665,
+    3.026
+   ],
+   "local_bounds_max": [
+    0.334,
+    -0.298,
+    3.08
+   ]
+  },
+  {
+   "name": "Cage Bar 2",
+   "verts": 2430,
+   "polys": 2416,
+   "tris": 4816,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cage Bar 2",
+   "local_bounds_min": [
+    -0.435,
+    -0.776,
+    1.352
+   ],
+   "local_bounds_max": [
+    0.435,
+    -0.298,
+    1.405
+   ]
+  },
+  {
+   "name": "Cage Bar 3",
+   "verts": 2430,
+   "polys": 2416,
+   "tris": 4816,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cage Bar 3",
+   "local_bounds_min": [
+    -0.512,
+    -0.861,
+    1.504
+   ],
+   "local_bounds_max": [
+    0.512,
+    -0.298,
+    1.557
+   ]
+  },
+  {
+   "name": "Cage Bar 4",
+   "verts": 2430,
+   "polys": 2416,
+   "tris": 4816,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cage Bar 4",
+   "local_bounds_min": [
+    -0.565,
+    -0.919,
+    1.656
+   ],
+   "local_bounds_max": [
+    0.565,
+    -0.298,
+    1.709
+   ]
+  },
+  {
+   "name": "Cage Bar 5",
+   "verts": 2430,
+   "polys": 2416,
+   "tris": 4816,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cage Bar 5",
+   "local_bounds_min": [
+    -0.6,
+    -0.958,
+    1.808
+   ],
+   "local_bounds_max": [
+    0.6,
+    -0.298,
+    1.862
+   ]
+  },
+  {
+   "name": "Cage Bar 6",
+   "verts": 2430,
+   "polys": 2416,
+   "tris": 4816,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cage Bar 6",
+   "local_bounds_min": [
+    -0.621,
+    -0.98,
+    1.961
+   ],
+   "local_bounds_max": [
+    0.621,
+    -0.298,
+    2.014
+   ]
+  },
+  {
+   "name": "Cage Bar 7",
+   "verts": 2430,
+   "polys": 2416,
+   "tris": 4816,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cage Bar 7",
+   "local_bounds_min": [
+    -0.628,
+    -0.988,
+    2.113
+   ],
+   "local_bounds_max": [
+    0.628,
+    -0.298,
+    2.166
+   ]
+  },
+  {
+   "name": "Cage Bar 8",
+   "verts": 2430,
+   "polys": 2416,
+   "tris": 4816,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cage Bar 8",
+   "local_bounds_min": [
+    -0.622,
+    -0.982,
+    2.265
+   ],
+   "local_bounds_max": [
+    0.622,
+    -0.298,
+    2.318
+   ]
+  },
+  {
+   "name": "Cage Bar 9",
+   "verts": 2430,
+   "polys": 2416,
+   "tris": 4816,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cage Bar 9",
+   "local_bounds_min": [
+    -0.604,
+    -0.962,
+    2.417
+   ],
+   "local_bounds_max": [
+    0.604,
+    -0.298,
+    2.471
+   ]
+  },
+  {
+   "name": "Centre Vertical Bar",
+   "verts": 3870,
+   "polys": 3856,
+   "tris": 7696,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Centre Vertical Bar",
+   "local_bounds_min": [
+    -0.034,
+    -0.992,
+    1.092
+   ],
+   "local_bounds_max": [
+    0.034,
+    -0.417,
+    3.208
+   ]
+  },
+  {
+   "name": "Chin Leather Mesh.001",
+   "verts": 270,
+   "polys": 268,
+   "tris": 536,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Chin Leather",
+   "local_bounds_min": [
+    -0.28,
+    -0.809,
+    0.036
+   ],
+   "local_bounds_max": [
+    0.28,
+    -0.333,
+    1.06
+   ]
+  },
+  {
+   "name": "Chin Piping",
+   "verts": 4350,
+   "polys": 4336,
+   "tris": 8656,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Chin Piping",
+   "local_bounds_min": [
+    -0.3,
+    -0.809,
+    0.029
+   ],
+   "local_bounds_max": [
+    0.3,
+    -0.332,
+    1.06
+   ]
+  },
+  {
+   "name": "Cream Border Mesh.001",
+   "verts": 384,
+   "polys": 384,
+   "tris": 768,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cream Border",
+   "local_bounds_min": [
+    -0.772,
+    -0.347,
+    0.99
+   ],
+   "local_bounds_max": [
+    0.772,
+    -0.223,
+    3.31
+   ]
+  },
+  {
+   "name": "Flap L Mesh.001",
+   "verts": 306,
+   "polys": 304,
+   "tris": 608,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Flap L",
+   "local_bounds_min": [
+    -2.561,
+    -0.356,
+    0.087
+   ],
+   "local_bounds_max": [
+    -0.53,
+    0.725,
+    1.389
+   ]
+  },
+  {
+   "name": "Flap Piping L",
+   "verts": 4830,
+   "polys": 4816,
+   "tris": 9616,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Flap Piping L",
+   "local_bounds_min": [
+    -2.586,
+    -0.384,
+    0.086
+   ],
+   "local_bounds_max": [
+    -0.53,
+    0.753,
+    1.387
+   ]
+  },
+  {
+   "name": "Flap Piping R",
+   "verts": 4830,
+   "polys": 4816,
+   "tris": 9616,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Flap Piping R",
+   "local_bounds_min": [
+    0.53,
+    -0.384,
+    0.086
+   ],
+   "local_bounds_max": [
+    2.586,
+    0.753,
+    1.387
+   ]
+  },
+  {
+   "name": "Flap Quilt L-1",
+   "verts": 1710,
+   "polys": 1696,
+   "tris": 3376,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Flap Quilt L-1",
+   "local_bounds_min": [
+    -2.473,
+    0.015,
+    0.184
+   ],
+   "local_bounds_max": [
+    -0.667,
+    0.261,
+    1.265
+   ]
+  },
+  {
+   "name": "Flap Quilt L-2",
+   "verts": 1710,
+   "polys": 1696,
+   "tris": 3376,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Flap Quilt L-2",
+   "local_bounds_min": [
+    -2.473,
+    -0.126,
+    0.199
+   ],
+   "local_bounds_max": [
+    -0.667,
+    0.173,
+    1.28
+   ]
+  },
+  {
+   "name": "Flap Quilt L-3",
+   "verts": 1710,
+   "polys": 1696,
+   "tris": 3376,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Flap Quilt L-3",
+   "local_bounds_min": [
+    -2.474,
+    -0.266,
+    0.223
+   ],
+   "local_bounds_max": [
+    -0.667,
+    0.086,
+    1.304
+   ]
+  },
+  {
+   "name": "Flap Quilt L0",
+   "verts": 1710,
+   "polys": 1696,
+   "tris": 3376,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Flap Quilt L0",
+   "local_bounds_min": [
+    -2.472,
+    0.156,
+    0.18
+   ],
+   "local_bounds_max": [
+    -0.667,
+    0.348,
+    1.26
+   ]
+  },
+  {
+   "name": "Flap Quilt L1",
+   "verts": 1710,
+   "polys": 1696,
+   "tris": 3376,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Flap Quilt L1",
+   "local_bounds_min": [
+    -2.472,
+    0.297,
+    0.184
+   ],
+   "local_bounds_max": [
+    -0.667,
+    0.444,
+    1.265
+   ]
+  },
+  {
+   "name": "Flap Quilt L2",
+   "verts": 1710,
+   "polys": 1696,
+   "tris": 3376,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Flap Quilt L2",
+   "local_bounds_min": [
+    -2.473,
+    0.438,
+    0.199
+   ],
+   "local_bounds_max": [
+    -0.667,
+    0.555,
+    1.28
+   ]
+  },
+  {
+   "name": "Flap Quilt L3",
+   "verts": 1710,
+   "polys": 1696,
+   "tris": 3376,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Flap Quilt L3",
+   "local_bounds_min": [
+    -2.473,
+    0.578,
+    0.223
+   ],
+   "local_bounds_max": [
+    -0.667,
+    0.667,
+    1.304
+   ]
+  },
+  {
+   "name": "Flap Quilt R-1",
+   "verts": 1710,
+   "polys": 1696,
+   "tris": 3376,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Flap Quilt R-1",
+   "local_bounds_min": [
+    0.667,
+    0.015,
+    0.184
+   ],
+   "local_bounds_max": [
+    2.473,
+    0.261,
+    1.265
+   ]
+  },
+  {
+   "name": "Flap Quilt R-2",
+   "verts": 1710,
+   "polys": 1696,
+   "tris": 3376,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Flap Quilt R-2",
+   "local_bounds_min": [
+    0.667,
+    -0.126,
+    0.199
+   ],
+   "local_bounds_max": [
+    2.473,
+    0.173,
+    1.28
+   ]
+  },
+  {
+   "name": "Flap Quilt R-3",
+   "verts": 1710,
+   "polys": 1696,
+   "tris": 3376,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Flap Quilt R-3",
+   "local_bounds_min": [
+    0.667,
+    -0.266,
+    0.223
+   ],
+   "local_bounds_max": [
+    2.474,
+    0.086,
+    1.304
+   ]
+  },
+  {
+   "name": "Flap Quilt R0",
+   "verts": 1710,
+   "polys": 1696,
+   "tris": 3376,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Flap Quilt R0",
+   "local_bounds_min": [
+    0.667,
+    0.156,
+    0.18
+   ],
+   "local_bounds_max": [
+    2.472,
+    0.348,
+    1.26
+   ]
+  },
+  {
+   "name": "Flap Quilt R1",
+   "verts": 1710,
+   "polys": 1696,
+   "tris": 3376,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Flap Quilt R1",
+   "local_bounds_min": [
+    0.667,
+    0.297,
+    0.184
+   ],
+   "local_bounds_max": [
+    2.472,
+    0.444,
+    1.265
+   ]
+  },
+  {
+   "name": "Flap Quilt R2",
+   "verts": 1710,
+   "polys": 1696,
+   "tris": 3376,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Flap Quilt R2",
+   "local_bounds_min": [
+    0.667,
+    0.438,
+    0.199
+   ],
+   "local_bounds_max": [
+    2.473,
+    0.555,
+    1.28
+   ]
+  },
+  {
+   "name": "Flap Quilt R3",
+   "verts": 1710,
+   "polys": 1696,
+   "tris": 3376,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Flap Quilt R3",
+   "local_bounds_min": [
+    0.667,
+    0.578,
+    0.223
+   ],
+   "local_bounds_max": [
+    2.473,
+    0.667,
+    1.304
+   ]
+  },
+  {
+   "name": "Flap R Mesh.001",
+   "verts": 306,
+   "polys": 304,
+   "tris": 608,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Flap R",
+   "local_bounds_min": [
+    0.53,
+    -0.356,
+    0.087
+   ],
+   "local_bounds_max": [
+    2.561,
+    0.725,
+    1.389
+   ]
+  },
+  {
+   "name": "Hood Cloth Mesh.001",
+   "verts": 5248,
+   "polys": 3056,
+   "tris": 6112,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Hood Cloth",
+   "local_bounds_min": [
+    -0.99,
+    -0.713,
+    0.662
+   ],
+   "local_bounds_max": [
+    0.99,
+    1.24,
+    3.34
+   ]
+  },
+  {
+   "name": "Silver Plate Mesh.001",
+   "verts": 110,
+   "polys": 108,
+   "tris": 216,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Silver Plate",
+   "local_bounds_min": [
+    -0.173,
+    -0.522,
+    0.926
+   ],
+   "local_bounds_max": [
+    0.173,
+    -0.385,
+    1.174
+   ]
+  }
+ ],
+ "totals": {
+  "mesh_count": 38,
+  "verts": 80076,
+  "tris": 154384
+ },
+ "world_bounds_fbx_units": {
+  "min": [
+   -258.558,
+   2.909,
+   -124.0
+  ],
+  "max": [
+   258.558,
+   333.994,
+   99.234
+  ],
+  "size": [
+   517.116,
+   331.086,
+   223.234
+  ]
+ },
+ "world_size_meters_est": [
+  5.171,
+  3.311,
+  2.232
+ ],
+ "model_types": {
+  "Light": 2,
+  "Mesh": 115,
+  "Camera": 1,
+  "Null": 18
+ },
+ "hierarchy": [
+  "Area [Light]",
+  "Area.001 [Light]",
+  "Border Stitch [Mesh]",
+  "Border Stitch.001 [Mesh]",
+  "Border Stitch.002 [Mesh]",
+  "Border Stitch.003 [Mesh]",
+  "Border Stitch.004 [Mesh]",
+  "Border Stitch.005 [Mesh]",
+  "Border Stitch.006 [Mesh]",
+  "Border Stitch.007 [Mesh]",
+  "Border Stitch.008 [Mesh]",
+  "Border Stitch.009 [Mesh]",
+  "Border Stitch.010 [Mesh]",
+  "Border Stitch.011 [Mesh]",
+  "Border Stitch.012 [Mesh]",
+  "Border Stitch.013 [Mesh]",
+  "Border Stitch.014 [Mesh]",
+  "Border Stitch.015 [Mesh]",
+  "Border Stitch.016 [Mesh]",
+  "Border Stitch.017 [Mesh]",
+  "Border Stitch.018 [Mesh]",
+  "Border Stitch.019 [Mesh]",
+  "Border Stitch.020 [Mesh]",
+  "Border Stitch.021 [Mesh]",
+  "Border Stitch.022 [Mesh]",
+  "Border Stitch.023 [Mesh]",
+  "Border Stitch.024 [Mesh]",
+  "Border Stitch.025 [Mesh]",
+  "Border Stitch.026 [Mesh]",
+  "Border Stitch.027 [Mesh]",
+  "Border Stitch.028 [Mesh]",
+  "Border Stitch.029 [Mesh]",
+  "Border Stitch.030 [Mesh]",
+  "Border Stitch.031 [Mesh]",
+  "Border Stitch.032 [Mesh]",
+  "Border Stitch.033 [Mesh]",
+  "Border Stitch.034 [Mesh]",
+  "Border Stitch.035 [Mesh]",
+  "Border Stitch.036 [Mesh]",
+  "Border Stitch.037 [Mesh]",
+  "... +96 more roots"
+ ],
+ "root_transforms": [
+  {
+   "name": "Area",
+   "T": [
+    400.0,
+    700.0,
+    600.0
+   ],
+   "R": [
+    35.0,
+    30.0,
+    -0.0
+   ],
+   "S": [
+    100.0,
+    100.0,
+    100.0
+   ]
+  },
+  {
+   "name": "Area.001",
+   "T": [
+    -500.0,
+    400.0,
+    400.0
+   ],
+   "R": [
+    55.0,
+    -50.0,
+    -0.0
+   ],
+   "S": [
+    100.0,
+    100.0,
+    100.0
+   ]
+  },
+  {
+   "name": "Border Stitch",
+   "T": [
+    68.8,
+    215.0,
+    33.0
+   ],
+   "R": [
+    -90.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    1.7,
+    0.85,
+    1.7
+   ]
+  },
+  {
+   "name": "Border Stitch.001",
+   "T": [
+    68.179,
+    229.85,
+    33.0
+   ],
+   "R": [
+    -90.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    1.7,
+    0.85,
+    1.7
+   ]
+  },
+  {
+   "name": "Border Stitch.002",
+   "T": [
+    66.329,
+    244.42,
+    33.0
+   ],
+   "R": [
+    -90.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    1.7,
+    0.85,
+    1.7
+   ]
+  },
+  {
+   "name": "Border Stitch.003",
+   "T": [
+    63.292,
+    258.437,
+    33.0
+   ],
+   "R": [
+    -90.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    1.7,
+    0.85,
+    1.7
+   ]
+  },
+  {
+   "name": "Border Stitch.004",
+   "T": [
+    59.136,
+    271.642,
+    33.0
+   ],
+   "R": [
+    -90.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    1.7,
+    0.85,
+    1.7
+   ]
+  },
+  {
+   "name": "Border Stitch.005",
+   "T": [
+    53.952,
+    283.793,
+    33.0
+   ],
+   "R": [
+    -90.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    1.7,
+    0.85,
+    1.7
+   ]
+  },
+  {
+   "name": "Border Stitch.006",
+   "T": [
+    47.852,
+    294.671,
+    33.0
+   ],
+   "R": [
+    -90.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    1.7,
+    0.85,
+    1.7
+   ]
+  },
+  {
+   "name": "Border Stitch.007",
+   "T": [
+    40.966,
+    304.089,
+    33.0
+   ],
+   "R": [
+    -90.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    1.7,
+    0.85,
+    1.7
+   ]
+  },
+  {
+   "name": "Border Stitch.008",
+   "T": [
+    33.438,
+    311.887,
+    33.0
+   ],
+   "R": [
+    -90.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    1.7,
+    0.85,
+    1.7
+   ]
+  },
+  {
+   "name": "Border Stitch.009",
+   "T": [
+    25.419,
+    317.942,
+    33.0
+   ],
+   "R": [
+    -90.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    1.7,
+    0.85,
+    1.7
+   ]
+  },
+  {
+   "name": "Border Stitch.010",
+   "T": [
+    17.068,
+    322.166,
+    33.0
+   ],
+   "R": [
+    -90.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    1.7,
+    0.85,
+    1.7
+   ]
+  },
+  {
+   "name": "Border Stitch.011",
+   "T": [
+    8.543,
+    324.508,
+    33.0
+   ],
+   "R": [
+    -90.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    1.7,
+    0.85,
+    1.7
+   ]
+  },
+  {
+   "name": "Border Stitch.012",
+   "T": [
+    0.0,
+    324.95,
+    33.0
+   ],
+   "R": [
+    -90.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    1.7,
+    0.85,
+    1.7
+   ]
+  }
+ ],
+ "skeleton": {
+  "bone_count": 0,
+  "bones": []
+ },
+ "skin": {
+  "skins": 0,
+  "clusters": 0,
+  "blendshapes": 0
+ },
+ "poses": [],
+ "materials": [
+  {
+   "name": "Cream Thread",
+   "shading": "Phong",
+   "diffuse": [
+    0.75,
+    0.7,
+    0.55
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "Cage Steel",
+   "shading": "Phong",
+   "diffuse": [
+    0.3,
+    0.28,
+    0.25
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "Red Lacquer",
+   "shading": "Phong",
+   "diffuse": [
+    0.3,
+    0.035,
+    0.02
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "Black Leather.001",
+   "shading": "Phong",
+   "diffuse": [
+    0.012,
+    0.011,
+    0.01
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "Grey Piping",
+   "shading": "Phong",
+   "diffuse": [
+    0.33,
+    0.33,
+    0.31
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "Cream Leather",
+   "shading": "Phong",
+   "diffuse": [
+    0.62,
+    0.5,
+    0.3
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "Indigo Cloth.001",
+   "shading": "Phong",
+   "diffuse": [
+    0.01,
+    0.017,
+    0.04
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "Quilt Line",
+   "shading": "Phong",
+   "diffuse": [
+    0.03,
+    0.045,
+    0.085
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "Silver Mesh Plate",
+   "shading": "Phong",
+   "diffuse": [
+    0.55,
+    0.55,
+    0.52
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": []
+  }
+ ],
+ "textures": [],
+ "videos": [],
+ "animations": []
+}

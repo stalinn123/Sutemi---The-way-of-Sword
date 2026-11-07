@@ -1,0 +1,22 @@
+{
+    "name": "Kendo.Game",
+    "rootNamespace": "Kendo.Game",
+    "references": [
+        "Kendo.Core",
+        "Kendo.Characters",
+        "Kendo.Rules",
+        "Kendo.AI",
+        "Kendo.Campaign",
+        "Unity.InputSystem",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

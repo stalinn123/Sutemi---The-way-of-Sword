@@ -1,0 +1,57 @@
+{
+ "(untrained)": {
+  "fixed": {
+   "easy": 0.82,
+   "medium": 0.62,
+   "hard": 0.51,
+   "former_student": 0.11,
+   "imit_aggressive_men": 0.88,
+   "imit_defensive_counter": 0.01
+  },
+  "randomised_heldout": 0.59
+ },
+ "runs/a2c_fixed/final_policy.json": {
+  "fixed": {
+   "easy": 1.0,
+   "medium": 0.99,
+   "hard": 1.0,
+   "former_student": 0.76,
+   "imit_aggressive_men": 0.89,
+   "imit_defensive_counter": 0.91
+  },
+  "randomised_heldout": 0.64
+ },
+ "runs/a2c_fixed_s2/final_policy.json": {
+  "fixed": {
+   "easy": 1.0,
+   "medium": 0.98,
+   "hard": 0.99,
+   "former_student": 0.79,
+   "imit_aggressive_men": 0.92,
+   "imit_defensive_counter": 0.96
+  },
+  "randomised_heldout": 0.6333333333333333
+ },
+ "runs/a2c_dr/final_policy.json": {
+  "fixed": {
+   "easy": 0.9,
+   "medium": 0.77,
+   "hard": 0.57,
+   "former_student": 0.42,
+   "imit_aggressive_men": 0.86,
+   "imit_defensive_counter": 0.0
+  },
+  "randomised_heldout": 0.6133333333333333
+ },
+ "runs/a2c_dr_10m/checkpoint_4000000.json": {
+  "fixed": {
+   "easy": 0.92,
+   "medium": 0.67,
+   "hard": 0.43,
+   "former_student": 0.27,
+   "imit_aggressive_men": 0.94,
+   "imit_defensive_counter": 0.0
+  },
+  "randomised_heldout": 0.6466666666666666
+ }
+}

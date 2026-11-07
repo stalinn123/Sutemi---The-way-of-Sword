@@ -1,0 +1,45 @@
+{
+ "timesteps": 3000000,
+ "wall_s": 368.8,
+ "domain_randomisation": true,
+ "seed": 1,
+ "imitation_accuracy": {
+  "aggressive_men": 0.8589529843281094,
+  "defensive_counter": 0.8109369789929977,
+  "kote_mover": 0.8012670890296766
+ },
+ "final_eval": {
+  "easy": {
+   "win_rate": 0.9,
+   "points_for": 1.87,
+   "points_against": 0.42
+  },
+  "medium": {
+   "win_rate": 0.77,
+   "points_for": 1.6,
+   "points_against": 0.8
+  },
+  "hard": {
+   "win_rate": 0.57,
+   "points_for": 1.31,
+   "points_against": 1.12
+  },
+  "former_student": {
+   "win_rate": 0.42,
+   "points_for": 1.1,
+   "points_against": 1.33
+  },
+  "imit_aggressive_men": {
+   "win_rate": 0.86,
+   "points_for": 1.8,
+   "points_against": 0.5
+  },
+  "imit_defensive_counter": {
+   "win_rate": 0.0,
+   "points_for": 0.0,
+   "points_against": 2.0
+  }
+ },
+ "episodes": 19355,
+ "final_train_win_rate_100": 0.73
+}

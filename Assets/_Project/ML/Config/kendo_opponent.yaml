@@ -1,0 +1,37 @@
+# TEMPLATE – not used yet. ML-Agents trainer config for the opponent policy (see Scripts/Runtime/AI/README.md).
+# Train offline:  mlagents-learn Assets/_Project/ML/Config/kendo_opponent.yaml --run-id=kendo_opponent_v0
+behaviors:
+  KendoOpponent:
+    trainer_type: ppo
+    hyperparameters:
+      batch_size: 1024
+      buffer_size: 10240
+      learning_rate: 3.0e-4
+      beta: 5.0e-3
+      epsilon: 0.2
+      lambd: 0.95
+      num_epoch: 3
+    network_settings:
+      normalize: true
+      hidden_units: 256
+      num_layers: 2
+    reward_signals:
+      extrinsic:          # + valid strike landed (ippon), - strike received
+        gamma: 0.99
+        strength: 1.0
+      gail:               # imitation of recorded kendoka / player demonstrations
+        strength: 0.1
+        demo_path: Assets/_Project/ML/Demonstrations/
+    behavioral_cloning:
+      demo_path: Assets/_Project/ML/Demonstrations/
+      strength: 0.5
+      steps: 150000
+    max_steps: 5.0e6
+    time_horizon: 128
+    summary_freq: 20000
+    self_play:            # opponents of increasing strength for the level ladder
+      save_steps: 50000
+      team_change: 200000
+      swap_steps: 10000
+      window: 10
+      play_against_latest_model_ratio: 0.5

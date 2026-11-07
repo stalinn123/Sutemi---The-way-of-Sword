@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31e20131a295c4047bc0e0027cff28f8, type: 3}
+  m_Name: KendoGameConfig
+  m_EditorClassIdentifier: Kendo.Game::Kendo.Game.KendoGameConfig
+  characterModel: {fileID: 919132149155446097, guid: 6582f44627d96ac45be493b81704a4dc, type: 3}
+  shinaiPrefab: {fileID: 8116175497340834244, guid: 839fe9a49bbe4b24f8e4b9f98cbde356, type: 3}
+  menHelmet: {fileID: 919132149155446097, guid: 22a3f6207370c244da0a2c29ca24515e, type: 3}
+  menFitDrop: 0.06
+  menScale: 1
+  trainingDojo: {fileID: 919132149155446097, guid: 8c70b24d5b726bf4caa80f696763f67c, type: 3}
+  temple: {fileID: 919132149155446097, guid: ec269e898b0583d478b7b2443954be7c, type: 3}
+  finalEnvironment: {fileID: 919132149155446097, guid: 170a3346084bb3b44936c23eda3ebae8, type: 3}
+  badges:
+  - {fileID: 5892594906018787367, guid: 134d82b1985c6144cb629fe1963ca0dd, type: 3}
+  - {fileID: 2771845371316150844, guid: b7354992c1db0ce42be14aefe6d2921a, type: 3}
+  - {fileID: 2272243404950259213, guid: 1f2e280133dade04ab9f2f1c29a8c8f3, type: 3}
+  - {fileID: 4201206079861096980, guid: 3d3cc51a670f85b46a9f0d9a9cfe144d, type: 3}
+  - {fileID: 7577716224520318326, guid: 631c0e7aa62053949aed6e390bb00a27, type: 3}
+  litTemplate: {fileID: 2100000, guid: 69960a5bf63b91041ac39892e0643942, type: 2}
+  unlitTemplate: {fileID: 2100000, guid: f07116b1c0f49e14e92946b6f1218696, type: 2}
+  masterPortrait: {fileID: 0}
+  formerStudentPortrait: {fileID: 0}
+  font: {fileID: 0}
+  opponentPolicy: {fileID: 4900000, guid: 82bdcd376f3cdff48a8f6cfbfb542f68, type: 3}
+  musicDojo: {fileID: 8300000, guid: 962afb0e6185f464cbfdd1a3f5e95536, type: 3}
+  musicBattle: {fileID: 8300000, guid: 2ad4fdd7d0611384fa271cdd3fe5d342, type: 3}
+  musicFinal: {fileID: 8300000, guid: 808f5f35c8358ae469e117ed20c7f2e8, type: 3}
+  ambienceDojo: {fileID: 8300000, guid: 54904db98ed6a2b4d993660eb2310d25, type: 3}
+  ambienceTemple: {fileID: 8300000, guid: 0bd8b529e3a4cf24f8e078687190d079, type: 3}
+  shinaiHit: {fileID: 8300000, guid: abbbe64feda20fe479d5868d0f611dbc, type: 3}
+  shinaiClash: {fileID: 8300000, guid: 34774aa526e699247b22e4900397ffb2, type: 3}
+  shinaiTouch: {fileID: 8300000, guid: b6f7f2fa5eff6724f8898a0420a6d978, type: 3}
+  fumikomi: {fileID: 8300000, guid: fedf6ad6cd5bbd2438cef18419e85b97, type: 3}
+  footSlide: {fileID: 8300000, guid: cf843a6515a55d940b9d1164205e0465, type: 3}
+  kiaiPlayer: {fileID: 8300000, guid: 6dae50aa747726148a2240c48200fe73, type: 3}
+  kiaiOpponent: {fileID: 8300000, guid: 747ff8896c711054c988e18f09bd4e5d, type: 3}
+  kiaiBoss: {fileID: 8300000, guid: c2585b4455d6dbb468cf0d98f0d65533, type: 3}
+  bell: {fileID: 8300000, guid: 4f8f96b761f033946a81188a6535f1c9, type: 3}
+  taiko: {fileID: 8300000, guid: 4a914a35990b1ba4ea0ab28351e128db, type: 3}
+  uiClick: {fileID: 8300000, guid: fc4400f97396ac742a5455f241c89952, type: 3}
+  uiConfirm: {fileID: 8300000, guid: 25d752be402970b4b99e444095ba40c1, type: 3}
+  success: {fileID: 8300000, guid: 23ddcf3b7fbb0ee45a998a0d01463061, type: 3}
+  fail: {fileID: 8300000, guid: 5725ae3eef8e62c459a8d6567017f178, type: 3}
+  flagRaise: {fileID: 8300000, guid: 26cb6d18650f37949aa5de5c3de86fe0, type: 3}

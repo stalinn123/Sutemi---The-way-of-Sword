@@ -1,0 +1,12 @@
+﻿<Solution>
+  <Project Path="Kendo.AI.csproj" />
+  <Project Path="Kendo.Rules.csproj" />
+  <Project Path="Kendo.Campaign.csproj" />
+  <Project Path="Kendo.Data.csproj" />
+  <Project Path="Kendo.Editor.csproj" />
+  <Project Path="Kendo.Game.csproj" />
+  <Project Path="Kendo.Core.csproj" />
+  <Project Path="Kendo.Tests.EditMode.csproj" />
+  <Project Path="Kendo.Characters.csproj" />
+  <Project Path="Kendo.Tests.PlayMode.csproj" />
+</Solution>

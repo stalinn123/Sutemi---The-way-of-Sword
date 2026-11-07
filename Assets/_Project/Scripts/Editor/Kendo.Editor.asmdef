@@ -1,0 +1,27 @@
+{
+    "name": "Kendo.Editor",
+    "rootNamespace": "Kendo.EditorTools",
+    "references": [
+        "Kendo.Core",
+        "Kendo.Data",
+        "Kendo.Characters",
+        "Kendo.Rules",
+        "Kendo.AI",
+        "Kendo.Campaign",
+        "Kendo.Game",
+        "Unity.RenderPipelines.Universal.Runtime",
+        "Unity.RenderPipelines.Core.Runtime",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

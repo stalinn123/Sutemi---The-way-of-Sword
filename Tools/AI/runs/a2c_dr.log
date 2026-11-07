@@ -1,0 +1,59 @@
+imitation accuracy (held-out half of stream): {'aggressive_men': 0.859, 'defensive_counter': 0.811, 'kote_mover': 0.801}
+eval@0 {'easy': 0.875, 'medium': 0.65, 'hard': 0.425, 'former_student': 0.125, 'imit_aggressive_men': 0.9, 'imit_defensive_counter': 0.025}
+250080 steps  42s  train win 0.68  eval {'easy': 0.95, 'medium': 0.8, 'hard': 0.575, 'former_student': 0.275, 'imit_aggressive_men': 0.875, 'imit_defensive_counter': 0.025}
+500000 steps  75s  train win 0.65  eval {'easy': 0.975, 'medium': 0.775, 'hard': 0.45, 'former_student': 0.25, 'imit_aggressive_men': 0.9, 'imit_defensive_counter': 0.0}
+750080 steps  109s  train win 0.59  eval {'easy': 0.85, 'medium': 0.775, 'hard': 0.3, 'former_student': 0.05, 'imit_aggressive_men': 0.8, 'imit_defensive_counter': 0.0}
+1000000 steps  140s  train win 0.63  eval {'easy': 0.95, 'medium': 0.725, 'hard': 0.475, 'former_student': 0.25, 'imit_aggressive_men': 0.85, 'imit_defensive_counter': 0.0}
+1250080 steps  170s  train win 0.64  eval {'easy': 0.9, 'medium': 0.725, 'hard': 0.425, 'former_student': 0.1, 'imit_aggressive_men': 0.85, 'imit_defensive_counter': 0.0}
+1500000 steps  199s  train win 0.75  eval {'easy': 0.975, 'medium': 0.725, 'hard': 0.4, 'former_student': 0.25, 'imit_aggressive_men': 0.9, 'imit_defensive_counter': 0.0}
+1750080 steps  228s  train win 0.72  eval {'easy': 0.975, 'medium': 0.8, 'hard': 0.4, 'former_student': 0.4, 'imit_aggressive_men': 0.8, 'imit_defensive_counter': 0.0}
+2000000 steps  257s  train win 0.63  eval {'easy': 0.975, 'medium': 0.8, 'hard': 0.325, 'former_student': 0.5, 'imit_aggressive_men': 0.875, 'imit_defensive_counter': 0.0}
+2250080 steps  285s  train win 0.73  eval {'easy': 0.925, 'medium': 0.7, 'hard': 0.35, 'former_student': 0.4, 'imit_aggressive_men': 0.85, 'imit_defensive_counter': 0.0}
+2500000 steps  315s  train win 0.60  eval {'easy': 0.9, 'medium': 0.75, 'hard': 0.425, 'former_student': 0.175, 'imit_aggressive_men': 0.825, 'imit_defensive_counter': 0.0}
+2750080 steps  342s  train win 0.68  eval {'easy': 0.925, 'medium': 0.775, 'hard': 0.525, 'former_student': 0.3, 'imit_aggressive_men': 0.825, 'imit_defensive_counter': 0.0}
+3000000 steps  369s  train win 0.73  eval {'easy': 0.975, 'medium': 0.75, 'hard': 0.35, 'former_student': 0.55, 'imit_aggressive_men': 0.925, 'imit_defensive_counter': 0.0}
+{
+ "timesteps": 3000000,
+ "wall_s": 368.8,
+ "domain_randomisation": true,
+ "seed": 1,
+ "imitation_accuracy": {
+  "aggressive_men": 0.8589529843281094,
+  "defensive_counter": 0.8109369789929977,
+  "kote_mover": 0.8012670890296766
+ },
+ "final_eval": {
+  "easy": {
+   "win_rate": 0.9,
+   "points_for": 1.87,
+   "points_against": 0.42
+  },
+  "medium": {
+   "win_rate": 0.77,
+   "points_for": 1.6,
+   "points_against": 0.8
+  },
+  "hard": {
+   "win_rate": 0.57,
+   "points_for": 1.31,
+   "points_against": 1.12
+  },
+  "former_student": {
+   "win_rate": 0.42,
+   "points_for": 1.1,
+   "points_against": 1.33
+  },
+  "imit_aggressive_men": {
+   "win_rate": 0.86,
+   "points_for": 1.8,
+   "points_against": 0.5
+  },
+  "imit_defensive_counter": {
+   "win_rate": 0.0,
+   "points_for": 0.0,
+   "points_against": 2.0
+  }
+ },
+ "episodes": 19355,
+ "final_train_win_rate_100": 0.73
+}

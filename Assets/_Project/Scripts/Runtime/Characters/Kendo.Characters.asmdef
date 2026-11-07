@@ -1,0 +1,14 @@
+{
+    "name": "Kendo.Characters",
+    "rootNamespace": "Kendo.Characters",
+    "references": ["Kendo.Core"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,4103 @@
+{
+ "file": "finalenvi.fbx",
+ "size_mb": 72.31,
+ "fbx_version": 7400,
+ "creator": "Blender (stable FBX IO) - 4.4.3 - 5.12.7",
+ "original_app": "Blender (stable FBX IO) 4.4.3",
+ "original_file": "/foobar.fbx",
+ "global": {
+  "UpAxis": 1,
+  "UpAxisSign": 1,
+  "FrontAxis": 2,
+  "FrontAxisSign": 1,
+  "CoordAxis": 0,
+  "UnitScaleFactor": 1.0,
+  "OriginalUnitScaleFactor": 1.0,
+  "TimeMode": 10,
+  "CustomFrameRate": 25.0,
+  "TimeSpanStop": 46186158000
+ },
+ "meshes": [
+  {
+   "name": "Mesh.027",
+   "verts": 286786,
+   "polys": 438046,
+   "tris": 438046,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVChannel_1",
+    "UVChannel_2"
+   ],
+   "vertex_colors": true,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Broom_Creeper_xfqicgrqx_Var3_LOD5",
+   "local_bounds_min": [
+    -570.776,
+    -184.393,
+    -922.966
+   ],
+   "local_bounds_max": [
+    1326.003,
+    1082.404,
+    827.606
+   ]
+  },
+  {
+   "name": "Cube.001",
+   "verts": 8,
+   "polys": 6,
+   "tris": 12,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cube",
+   "local_bounds_min": [
+    -0.696,
+    -0.535,
+    -0.188
+   ],
+   "local_bounds_max": [
+    0.696,
+    0.535,
+    0.188
+   ]
+  },
+  {
+   "name": "Cube.002",
+   "verts": 20,
+   "polys": 9,
+   "tris": 18,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cube.001",
+   "local_bounds_min": [
+    0.313,
+    -0.442,
+    -0.155
+   ],
+   "local_bounds_max": [
+    0.575,
+    0.442,
+    0.525
+   ]
+  },
+  {
+   "name": "Cube.007",
+   "verts": 20,
+   "polys": 9,
+   "tris": 18,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cube.002",
+   "local_bounds_min": [
+    0.173,
+    -0.726,
+    -0.155
+   ],
+   "local_bounds_max": [
+    0.575,
+    0.508,
+    0.391
+   ]
+  },
+  {
+   "name": "Cube.008",
+   "verts": 20,
+   "polys": 12,
+   "tris": 36,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cube.003",
+   "local_bounds_min": [
+    -1.119,
+    -0.86,
+    -0.208
+   ],
+   "local_bounds_max": [
+    1.119,
+    0.86,
+    0.22
+   ]
+  },
+  {
+   "name": "Cube.009",
+   "verts": 8,
+   "polys": 6,
+   "tris": 12,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cube.004",
+   "local_bounds_min": [
+    -1.0,
+    -1.0,
+    -1.0
+   ],
+   "local_bounds_max": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "name": "Cylinder.002",
+   "verts": 252,
+   "polys": 226,
+   "tris": 500,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Cylinder.001",
+   "local_bounds_min": [
+    -3.96,
+    -3.522,
+    -0.176
+   ],
+   "local_bounds_max": [
+    6.364,
+    3.522,
+    0.176
+   ]
+  },
+  {
+   "name": "Plane.006",
+   "verts": 4,
+   "polys": 1,
+   "tris": 2,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Plane",
+   "local_bounds_min": [
+    -1.0,
+    -1.0,
+    0.0
+   ],
+   "local_bounds_max": [
+    1.0,
+    1.0,
+    0.0
+   ]
+  },
+  {
+   "name": "Plane.002",
+   "verts": 380,
+   "polys": 342,
+   "tris": 684,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Plane.001",
+   "local_bounds_min": [
+    -6.856,
+    -6.718,
+    -0.401
+   ],
+   "local_bounds_max": [
+    6.722,
+    6.741,
+    1.623
+   ]
+  },
+  {
+   "name": "Plane.001",
+   "verts": 4,
+   "polys": 1,
+   "tris": 2,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Plane.002",
+   "local_bounds_min": [
+    -0.442,
+    -0.809,
+    0.0
+   ],
+   "local_bounds_max": [
+    0.442,
+    0.809,
+    0.0
+   ]
+  },
+  {
+   "name": "Plane.008",
+   "verts": 380,
+   "polys": 342,
+   "tris": 684,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Plane.003",
+   "local_bounds_min": [
+    -6.856,
+    -6.718,
+    -0.401
+   ],
+   "local_bounds_max": [
+    6.722,
+    6.741,
+    1.623
+   ]
+  },
+  {
+   "name": "Plane.009",
+   "verts": 4,
+   "polys": 1,
+   "tris": 2,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": null,
+   "skinned": false,
+   "model": "Plane.004",
+   "local_bounds_min": [
+    -1.0,
+    -1.0,
+    0.0
+   ],
+   "local_bounds_max": [
+    1.0,
+    1.0,
+    0.0
+   ]
+  },
+  {
+   "name": "Plane.011",
+   "verts": 4,
+   "polys": 1,
+   "tris": 2,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Plane.005",
+   "local_bounds_min": [
+    -1.0,
+    -1.0,
+    0.0
+   ],
+   "local_bounds_max": [
+    1.0,
+    1.0,
+    0.0
+   ]
+  },
+  {
+   "name": "Plane.013",
+   "verts": 4,
+   "polys": 1,
+   "tris": 2,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Plane.006",
+   "local_bounds_min": [
+    -1.0,
+    -1.0,
+    0.0
+   ],
+   "local_bounds_max": [
+    1.0,
+    1.0,
+    0.0
+   ]
+  },
+  {
+   "name": "Plane.014",
+   "verts": 4,
+   "polys": 1,
+   "tris": 2,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Plane.008",
+   "local_bounds_min": [
+    -1.0,
+    -1.0,
+    0.0
+   ],
+   "local_bounds_max": [
+    1.0,
+    1.0,
+    0.0
+   ]
+  },
+  {
+   "name": "Plane.018",
+   "verts": 4,
+   "polys": 1,
+   "tris": 2,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Plane.009",
+   "local_bounds_min": [
+    -1.0,
+    -1.0,
+    0.0
+   ],
+   "local_bounds_max": [
+    1.0,
+    1.0,
+    0.0
+   ]
+  },
+  {
+   "name": "Plane.020",
+   "verts": 4,
+   "polys": 1,
+   "tris": 2,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Plane.010",
+   "local_bounds_min": [
+    -1.0,
+    -1.0,
+    0.0
+   ],
+   "local_bounds_max": [
+    1.0,
+    1.0,
+    0.0
+   ]
+  },
+  {
+   "name": "Plane.021",
+   "verts": 4,
+   "polys": 1,
+   "tris": 2,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Plane.011",
+   "local_bounds_min": [
+    -1.0,
+    -1.0,
+    0.0
+   ],
+   "local_bounds_max": [
+    1.0,
+    1.0,
+    0.0
+   ]
+  },
+  {
+   "name": "Plane.022",
+   "verts": 4,
+   "polys": 1,
+   "tris": 2,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Plane.012",
+   "local_bounds_min": [
+    -1.0,
+    -1.0,
+    0.0
+   ],
+   "local_bounds_max": [
+    1.0,
+    1.0,
+    0.0
+   ]
+  },
+  {
+   "name": "Plane.023",
+   "verts": 4,
+   "polys": 1,
+   "tris": 2,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Plane.013",
+   "local_bounds_min": [
+    -1.0,
+    -1.0,
+    0.0
+   ],
+   "local_bounds_max": [
+    1.0,
+    1.0,
+    0.0
+   ]
+  },
+  {
+   "name": "Plane.024",
+   "verts": 4,
+   "polys": 1,
+   "tris": 2,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Plane.014",
+   "local_bounds_min": [
+    -1.0,
+    -1.0,
+    0.0
+   ],
+   "local_bounds_max": [
+    1.0,
+    1.0,
+    0.0
+   ]
+  },
+  {
+   "name": "Plane.004",
+   "verts": 8,
+   "polys": 2,
+   "tris": 4,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Plane|Plane.001|Dupli|",
+   "local_bounds_min": [
+    -0.52,
+    -0.184,
+    -0.52
+   ],
+   "local_bounds_max": [
+    0.52,
+    0.856,
+    0.52
+   ]
+  },
+  {
+   "name": "Plane.005",
+   "verts": 8,
+   "polys": 2,
+   "tris": 4,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Plane|Plane.002|Dupli|0.1",
+   "local_bounds_min": [
+    -0.52,
+    -0.187,
+    -0.52
+   ],
+   "local_bounds_max": [
+    0.52,
+    0.853,
+    0.52
+   ]
+  },
+  {
+   "name": "Plane.003",
+   "verts": 8,
+   "polys": 2,
+   "tris": 4,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Plane|Plane.002|Dupli|69.002",
+   "local_bounds_min": [
+    -0.52,
+    -0.187,
+    -0.52
+   ],
+   "local_bounds_max": [
+    0.52,
+    0.853,
+    0.52
+   ]
+  },
+  {
+   "name": "Sphere.002",
+   "verts": 482,
+   "polys": 512,
+   "tris": 960,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Sphere",
+   "local_bounds_min": [
+    -30.486,
+    -30.486,
+    -8.051
+   ],
+   "local_bounds_max": [
+    30.486,
+    30.486,
+    30.486
+   ]
+  },
+  {
+   "name": "node_0.005",
+   "verts": 1959,
+   "polys": 3666,
+   "tris": 3691,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "node_0.001",
+   "local_bounds_min": [
+    -1.566,
+    -0.002,
+    -1.083
+   ],
+   "local_bounds_max": [
+    1.557,
+    3.264,
+    1.448
+   ]
+  },
+  {
+   "name": "node_0.017",
+   "verts": 911,
+   "polys": 1883,
+   "tris": 1883,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "node_0.002",
+   "local_bounds_min": [
+    -0.733,
+    -0.006,
+    -1.793
+   ],
+   "local_bounds_max": [
+    2.341,
+    1.538,
+    2.062
+   ]
+  },
+  {
+   "name": "node_0.007",
+   "verts": 911,
+   "polys": 1883,
+   "tris": 1883,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "node_0.003",
+   "local_bounds_min": [
+    -0.733,
+    -0.006,
+    -1.793
+   ],
+   "local_bounds_max": [
+    2.341,
+    1.538,
+    2.062
+   ]
+  },
+  {
+   "name": "node_0.008",
+   "verts": 1662,
+   "polys": 3320,
+   "tris": 3320,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "node_0.004",
+   "local_bounds_min": [
+    -0.442,
+    -0.006,
+    -0.442
+   ],
+   "local_bounds_max": [
+    0.434,
+    1.386,
+    0.442
+   ]
+  },
+  {
+   "name": "node_0.012",
+   "verts": 2555,
+   "polys": 5114,
+   "tris": 5114,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "node_0.005",
+   "local_bounds_min": [
+    -0.667,
+    -0.0,
+    -0.377
+   ],
+   "local_bounds_max": [
+    0.665,
+    1.813,
+    0.498
+   ]
+  },
+  {
+   "name": "node_0.014",
+   "verts": 218,
+   "polys": 346,
+   "tris": 346,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "node_0.006",
+   "local_bounds_min": [
+    -0.677,
+    -0.002,
+    -0.376
+   ],
+   "local_bounds_max": [
+    0.696,
+    1.476,
+    0.512
+   ]
+  },
+  {
+   "name": "node_0.015",
+   "verts": 303,
+   "polys": 585,
+   "tris": 602,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "node_0.007",
+   "local_bounds_min": [
+    -0.258,
+    -0.455,
+    -0.253
+   ],
+   "local_bounds_max": [
+    0.248,
+    1.046,
+    0.257
+   ]
+  },
+  {
+   "name": "node_0.018",
+   "verts": 911,
+   "polys": 1883,
+   "tris": 1883,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "node_0.008",
+   "local_bounds_min": [
+    -0.733,
+    -0.006,
+    -1.793
+   ],
+   "local_bounds_max": [
+    2.341,
+    1.538,
+    2.062
+   ]
+  },
+  {
+   "name": "node_0.019",
+   "verts": 911,
+   "polys": 1883,
+   "tris": 1883,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "node_0.009",
+   "local_bounds_min": [
+    -0.733,
+    -0.006,
+    -1.793
+   ],
+   "local_bounds_max": [
+    2.341,
+    1.538,
+    2.062
+   ]
+  },
+  {
+   "name": "node_0.001",
+   "verts": 1959,
+   "polys": 3666,
+   "tris": 3691,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "node_0.010",
+   "local_bounds_min": [
+    -1.566,
+    -0.002,
+    -1.083
+   ],
+   "local_bounds_max": [
+    1.557,
+    3.264,
+    1.448
+   ]
+  },
+  {
+   "name": "Mesh.018",
+   "verts": 1339,
+   "polys": 1241,
+   "tris": 2512,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "pCube24",
+   "local_bounds_min": [
+    -718.298,
+    612.736,
+    -535.462
+   ],
+   "local_bounds_max": [
+    718.337,
+    1287.668,
+    535.425
+   ]
+  },
+  {
+   "name": "Mesh.022",
+   "verts": 608,
+   "polys": 544,
+   "tris": 1152,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "pCube37",
+   "local_bounds_min": [
+    -1060.861,
+    -147.783,
+    -892.187
+   ],
+   "local_bounds_max": [
+    1060.861,
+    213.798,
+    892.187
+   ]
+  },
+  {
+   "name": "Mesh.026",
+   "verts": 433616,
+   "polys": 383390,
+   "tris": 848490,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "pCylinder128",
+   "local_bounds_min": [
+    -728.195,
+    987.292,
+    -546.92
+   ],
+   "local_bounds_max": [
+    727.27,
+    1315.95,
+    541.516
+   ]
+  },
+  {
+   "name": "Mesh.011",
+   "verts": 337126,
+   "polys": 300948,
+   "tris": 658008,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "pCylinder94",
+   "local_bounds_min": [
+    -1065.573,
+    411.575,
+    -882.976
+   ],
+   "local_bounds_max": [
+    1054.376,
+    652.972,
+    882.976
+   ]
+  },
+  {
+   "name": "Mesh.012",
+   "verts": 255700,
+   "polys": 227628,
+   "tris": 497368,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "pCylinder97",
+   "local_bounds_min": [
+    -1061.206,
+    411.575,
+    -884.197
+   ],
+   "local_bounds_max": [
+    1061.206,
+    652.972,
+    879.992
+   ]
+  },
+  {
+   "name": "Mesh.014",
+   "verts": 4080,
+   "polys": 3940,
+   "tris": 7880,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "pPlane16",
+   "local_bounds_min": [
+    -561.657,
+    729.953,
+    -378.017
+   ],
+   "local_bounds_max": [
+    548.3,
+    783.579,
+    377.266
+   ]
+  },
+  {
+   "name": "Mesh.021",
+   "verts": 946,
+   "polys": 916,
+   "tris": 1840,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "pPlane23",
+   "local_bounds_min": [
+    -1512.175,
+    -190.938,
+    -1298.044
+   ],
+   "local_bounds_max": [
+    1512.175,
+    0.0,
+    1298.044
+   ]
+  },
+  {
+   "name": "Mesh.001",
+   "verts": 714,
+   "polys": 712,
+   "tris": 1424,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "pPlane6",
+   "local_bounds_min": [
+    -50.582,
+    0.0,
+    -50.752
+   ],
+   "local_bounds_max": [
+    50.582,
+    18.984,
+    50.752
+   ]
+  },
+  {
+   "name": "Mesh.010",
+   "verts": 48,
+   "polys": 46,
+   "tris": 92,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "pPlane7",
+   "local_bounds_min": [
+    -50.0,
+    -10.437,
+    -50.0
+   ],
+   "local_bounds_max": [
+    50.0,
+    0.0,
+    50.0
+   ]
+  },
+  {
+   "name": "Mesh.015",
+   "verts": 3184,
+   "polys": 2790,
+   "tris": 6272,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "polySurface142",
+   "local_bounds_min": [
+    -425.239,
+    897.547,
+    -301.673
+   ],
+   "local_bounds_max": [
+    425.239,
+    980.587,
+    301.673
+   ]
+  },
+  {
+   "name": "Mesh.016",
+   "verts": 11916,
+   "polys": 13848,
+   "tris": 27696,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "polySurface152",
+   "local_bounds_min": [
+    -363.844,
+    634.212,
+    -238.612
+   ],
+   "local_bounds_max": [
+    363.844,
+    857.995,
+    238.612
+   ]
+  },
+  {
+   "name": "Mesh.017",
+   "verts": 4024,
+   "polys": 3522,
+   "tris": 7920,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "polySurface153",
+   "local_bounds_min": [
+    -885.593,
+    333.268,
+    -710.953
+   ],
+   "local_bounds_max": [
+    885.593,
+    471.669,
+    710.953
+   ]
+  },
+  {
+   "name": "Mesh.020",
+   "verts": 4480,
+   "polys": 3752,
+   "tris": 6608,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "polySurface164",
+   "local_bounds_min": [
+    -932.12,
+    0.0,
+    -767.12
+   ],
+   "local_bounds_max": [
+    932.12,
+    217.062,
+    767.12
+   ]
+  },
+  {
+   "name": "Mesh.024",
+   "verts": 2524,
+   "polys": 2432,
+   "tris": 4936,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "polySurface165",
+   "local_bounds_min": [
+    -567.116,
+    673.85,
+    -384.736
+   ],
+   "local_bounds_max": [
+    553.937,
+    725.407,
+    384.736
+   ]
+  },
+  {
+   "name": "Mesh",
+   "verts": 4166,
+   "polys": 3928,
+   "tris": 7024,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "sweep22",
+   "local_bounds_min": [
+    -102.778,
+    0.0,
+    -763.52
+   ],
+   "local_bounds_max": [
+    102.778,
+    217.062,
+    763.52
+   ]
+  },
+  {
+   "name": "Mesh.013",
+   "verts": 320,
+   "polys": 336,
+   "tris": 688,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "sweep30",
+   "local_bounds_min": [
+    -609.568,
+    671.091,
+    -427.188
+   ],
+   "local_bounds_max": [
+    596.39,
+    843.82,
+    427.188
+   ]
+  },
+  {
+   "name": "Mesh.019",
+   "verts": 1728,
+   "polys": 1680,
+   "tris": 3424,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "sweep37",
+   "local_bounds_min": [
+    -1118.079,
+    399.769,
+    -919.143
+   ],
+   "local_bounds_max": [
+    1105.385,
+    1097.816,
+    919.143
+   ]
+  },
+  {
+   "name": "Mesh.023",
+   "verts": 4329,
+   "polys": 3680,
+   "tris": 8224,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "sweep38",
+   "local_bounds_min": [
+    -1015.208,
+    -24.798,
+    -854.076
+   ],
+   "local_bounds_max": [
+    1015.208,
+    289.846,
+    854.076
+   ]
+  },
+  {
+   "name": "Mesh.025",
+   "verts": 180,
+   "polys": 170,
+   "tris": 356,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "sweep39",
+   "local_bounds_min": [
+    -477.039,
+    1299.779,
+    -16.376
+   ],
+   "local_bounds_max": [
+    477.039,
+    1363.589,
+    16.376
+   ]
+  }
+ ],
+ "totals": {
+  "mesh_count": 54,
+  "verts": 1371756,
+  "tris": 2557216
+ },
+ "world_bounds_fbx_units": {
+  "min": [
+   -36019.513,
+   -7456.98,
+   -36243.972
+  ],
+  "max": [
+   36019.535,
+   38074.212,
+   35795.091
+  ],
+  "size": [
+   72039.048,
+   45531.192,
+   72039.064
+  ]
+ },
+ "world_size_meters_est": [
+  720.39,
+  455.312,
+  720.391
+ ],
+ "model_types": {
+  "Null": 39,
+  "Mesh": 856,
+  "Camera": 1,
+  "Light": 3,
+  "LimbNode": 84
+ },
+ "hierarchy": [
+  "Broom_Creeper_xfqicgrqx_Var12_LOD0 [Null]",
+  "  transform166 [Null]",
+  "Broom_Creeper_xfqicgrqx_Var12_LOD1 [Null]",
+  "  transform165 [Null]",
+  "Broom_Creeper_xfqicgrqx_Var12_LOD2 [Null]",
+  "  transform156 [Null]",
+  "Broom_Creeper_xfqicgrqx_Var3_LOD0 [Null]",
+  "  transform170 [Null]",
+  "Broom_Creeper_xfqicgrqx_Var3_LOD1 [Null]",
+  "  transform164 [Null]",
+  "Broom_Creeper_xfqicgrqx_Var3_LOD2 [Null]",
+  "  transform155 [Null]",
+  "Broom_Creeper_xfqicgrqx_Var3_LOD3 [Null]",
+  "  transform154 [Null]",
+  "Broom_Creeper_xfqicgrqx_Var3_LOD4 [Null]",
+  "  transform153 [Null]",
+  "Broom_Creeper_xfqicgrqx_Var3_LOD5 [Mesh]",
+  "Broom_Creeper_xfqicgrqx_Var6_LOD0 [Null]",
+  "  transform169 [Null]",
+  "Broom_Creeper_xfqicgrqx_Var6_LOD1 [Null]",
+  "  transform159 [Null]",
+  "Broom_Creeper_xfqicgrqx_Var6_LOD2 [Null]",
+  "  transform158 [Null]",
+  "Broom_Creeper_xfqicgrqx_Var7_LOD0 [Null]",
+  "  transform168 [Null]",
+  "Broom_Creeper_xfqicgrqx_Var7_LOD1 [Null]",
+  "  transform163 [Null]",
+  "Broom_Creeper_xfqicgrqx_Var7_LOD2 [Null]",
+  "  transform162 [Null]",
+  "Broom_Creeper_xfqicgrqx_Var9_LOD0 [Null]",
+  "  transform167 [Null]",
+  "Broom_Creeper_xfqicgrqx_Var9_LOD1 [Null]",
+  "  transform161 [Null]",
+  "Broom_Creeper_xfqicgrqx_Var9_LOD2 [Null]",
+  "  transform160 [Null]",
+  "Broom_Creeper_xfqicgrqx_Var9_LOD3 [Null]",
+  "  transform157 [Null]",
+  "Camera [Camera]",
+  "Cube [Mesh]",
+  "Cube.001 [Mesh]",
+  "Cube.002 [Mesh]",
+  "Cube.003 [Mesh]",
+  "Cube.004 [Mesh]",
+  "Cylinder.001 [Mesh]",
+  "Insect [Null]",
+  "  Bone [LimbNode]",
+  "    rhododendron.bone.000 [LimbNode]",
+  "      rhododendron.bone.001 [LimbNode] (1 children)",
+  "      rhododendron.bone.021 [LimbNode] (5 children)",
+  "Plane [Mesh]",
+  "Plane.001 [Mesh]",
+  "  Plane|Plane.001|Dupli| [Mesh]",
+  "  Plane|Plane.001|Dupli|1 [Mesh]",
+  "  Plane|Plane.001|Dupli|10 [Mesh]",
+  "  Plane|Plane.001|Dupli|100 [Mesh]",
+  "  Plane|Plane.001|Dupli|101 [Mesh]",
+  "  Plane|Plane.001|Dupli|102 [Mesh]",
+  "  Plane|Plane.001|Dupli|103 [Mesh]",
+  "  Plane|Plane.001|Dupli|104 [Mesh]",
+  "  Plane|Plane.001|Dupli|105 [Mesh]",
+  "  Plane|Plane.001|Dupli|106 [Mesh]",
+  "  Plane|Plane.001|Dupli|107 [Mesh]",
+  "  Plane|Plane.001|Dupli|108 [Mesh]",
+  "  Plane|Plane.001|Dupli|109 [Mesh]",
+  "  Plane|Plane.001|Dupli|11 [Mesh]",
+  "  Plane|Plane.001|Dupli|110 [Mesh]",
+  "  Plane|Plane.001|Dupli|111 [Mesh]",
+  "  Plane|Plane.001|Dupli|112 [Mesh]",
+  "  Plane|Plane.001|Dupli|113 [Mesh]",
+  "  Plane|Plane.001|Dupli|114 [Mesh]",
+  "  Plane|Plane.001|Dupli|115 [Mesh]",
+  "  Plane|Plane.001|Dupli|116 [Mesh]",
+  "  Plane|Plane.001|Dupli|117 [Mesh]",
+  "  Plane|Plane.001|Dupli|118 [Mesh]",
+  "  Plane|Plane.001|Dupli|119 [Mesh]",
+  "  Plane|Plane.001|Dupli|12 [Mesh]",
+  "  ... +779 more",
+  "Plane.002 [Mesh]",
+  "Plane.003 [Mesh]",
+  "  Plane|Plane.002|Dupli|69.002 [Mesh]",
+  "Plane.004 [Mesh]",
+  "Plane.005 [Mesh]",
+  "Plane.006 [Mesh]",
+  "Plane.008 [Mesh]",
+  "Plane.009 [Mesh]",
+  "Plane.010 [Mesh]",
+  "Plane.011 [Mesh]",
+  "Plane.012 [Mesh]",
+  "Plane.013 [Mesh]",
+  "... +36 more roots"
+ ],
+ "root_transforms": [
+  {
+   "name": "Broom_Creeper_xfqicgrqx_Var12_LOD0",
+   "T": [
+    2633.458,
+    1052.815,
+    519.931
+   ],
+   "R": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    2.4436,
+    2.4436,
+    2.4436
+   ]
+  },
+  {
+   "name": "Broom_Creeper_xfqicgrqx_Var12_LOD1",
+   "T": [
+    2633.412,
+    1052.815,
+    519.945
+   ],
+   "R": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    2.4436,
+    2.4436,
+    2.4436
+   ]
+  },
+  {
+   "name": "Broom_Creeper_xfqicgrqx_Var12_LOD2",
+   "T": [
+    2633.432,
+    1052.814,
+    519.954
+   ],
+   "R": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    2.4436,
+    2.4436,
+    2.4436
+   ]
+  },
+  {
+   "name": "Broom_Creeper_xfqicgrqx_Var3_LOD0",
+   "T": [
+    2633.411,
+    1052.814,
+    519.948
+   ],
+   "R": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    2.4436,
+    2.4436,
+    2.4436
+   ]
+  },
+  {
+   "name": "Broom_Creeper_xfqicgrqx_Var3_LOD1",
+   "T": [
+    2633.44,
+    1052.815,
+    519.949
+   ],
+   "R": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    2.4436,
+    2.4436,
+    2.4436
+   ]
+  },
+  {
+   "name": "Broom_Creeper_xfqicgrqx_Var3_LOD2",
+   "T": [
+    2633.412,
+    1052.817,
+    519.953
+   ],
+   "R": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    2.4436,
+    2.4436,
+    2.4436
+   ]
+  },
+  {
+   "name": "Broom_Creeper_xfqicgrqx_Var3_LOD3",
+   "T": [
+    2633.437,
+    1052.817,
+    519.94
+   ],
+   "R": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    2.4436,
+    2.4436,
+    2.4436
+   ]
+  },
+  {
+   "name": "Broom_Creeper_xfqicgrqx_Var3_LOD4",
+   "T": [
+    2633.432,
+    1052.824,
+    519.938
+   ],
+   "R": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    2.4436,
+    2.4436,
+    2.4436
+   ]
+  },
+  {
+   "name": "Broom_Creeper_xfqicgrqx_Var3_LOD5",
+   "T": [
+    2633.434,
+    1052.813,
+    519.942
+   ],
+   "R": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    2.4436,
+    2.4436,
+    2.4436
+   ]
+  },
+  {
+   "name": "Broom_Creeper_xfqicgrqx_Var6_LOD0",
+   "T": [
+    2633.438,
+    1052.814,
+    519.941
+   ],
+   "R": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    2.4436,
+    2.4436,
+    2.4436
+   ]
+  },
+  {
+   "name": "Broom_Creeper_xfqicgrqx_Var6_LOD1",
+   "T": [
+    2633.445,
+    1052.814,
+    519.938
+   ],
+   "R": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    2.4436,
+    2.4436,
+    2.4436
+   ]
+  },
+  {
+   "name": "Broom_Creeper_xfqicgrqx_Var6_LOD2",
+   "T": [
+    2633.403,
+    1052.814,
+    519.948
+   ],
+   "R": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    2.4436,
+    2.4436,
+    2.4436
+   ]
+  },
+  {
+   "name": "Broom_Creeper_xfqicgrqx_Var7_LOD0",
+   "T": [
+    2633.426,
+    1052.814,
+    519.956
+   ],
+   "R": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    2.4436,
+    2.4436,
+    2.4436
+   ]
+  },
+  {
+   "name": "Broom_Creeper_xfqicgrqx_Var7_LOD1",
+   "T": [
+    2633.438,
+    1052.815,
+    519.95
+   ],
+   "R": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    2.4436,
+    2.4436,
+    2.4436
+   ]
+  },
+  {
+   "name": "Broom_Creeper_xfqicgrqx_Var7_LOD2",
+   "T": [
+    2633.437,
+    1052.814,
+    519.929
+   ],
+   "R": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    2.4436,
+    2.4436,
+    2.4436
+   ]
+  }
+ ],
+ "skeleton": {
+  "bone_count": 84,
+  "bones": [
+   "Bone",
+   "rhododendron.bone.000",
+   "rhododendron.bone.001",
+   "rhododendron.bone.002",
+   "rhododendron.bone.003",
+   "rhododendron.bone.004",
+   "rhododendron.bone.005",
+   "rhododendron.bone.006",
+   "rhododendron.bone.006_end",
+   "rhododendron.bone.007",
+   "rhododendron.bone.008",
+   "rhododendron.bone.008_end",
+   "rhododendron.bone.009",
+   "rhododendron.bone.010",
+   "rhododendron.bone.010_end",
+   "rhododendron.bone.011",
+   "rhododendron.bone.012",
+   "rhododendron.bone.012_end",
+   "rhododendron.bone.013",
+   "rhododendron.bone.014",
+   "rhododendron.bone.014_end",
+   "rhododendron.bone.015",
+   "rhododendron.bone.015_end",
+   "rhododendron.bone.016",
+   "rhododendron.bone.016_end",
+   "rhododendron.bone.017",
+   "rhododendron.bone.017_end",
+   "rhododendron.bone.018",
+   "rhododendron.bone.018_end",
+   "rhododendron.bone.019",
+   "rhododendron.bone.020",
+   "rhododendron.bone.020_end",
+   "rhododendron.bone.035",
+   "rhododendron.bone.036",
+   "rhododendron.bone.036_end",
+   "rhododendron.bone.037",
+   "rhododendron.bone.038",
+   "rhododendron.bone.038_end",
+   "rhododendron.bone.039",
+   "rhododendron.bone.040",
+   "rhododendron.bone.040_end",
+   "rhododendron.bone.041",
+   "rhododendron.bone.042",
+   "rhododendron.bone.042_end",
+   "rhododendron.bone.021",
+   "rhododendron.bone.022",
+   "rhododendron.bone.023",
+   "rhododendron.bone.024",
+   "rhododendron.bone.024_end",
+   "rhododendron.bone.025",
+   "rhododendron.bone.026",
+   "rhododendron.bone.026_end",
+   "rhododendron.bone.027",
+   "rhododendron.bone.028",
+   "rhododendron.bone.028_end",
+   "rhododendron.bone.029",
+   "rhododendron.bone.030",
+   "rhododendron.bone.030_end",
+   "rhododendron.bone.031",
+   "rhododendron.bone.032",
+   "rhododendron.bone.032_end",
+   "rhododendron.bone.033",
+   "rhododendron.bone.034",
+   "rhododendron.bone.034_end",
+   "rhododendron.bone.006_end_end",
+   "rhododendron.bone.008_end_end",
+   "rhododendron.bone.010_end_end",
+   "rhododendron.bone.012_end_end",
+   "rhododendron.bone.014_end_end",
+   "rhododendron.bone.015_end_end",
+   "rhododendron.bone.016_end_end",
+   "rhododendron.bone.017_end_end",
+   "rhododendron.bone.018_end_end",
+   "rhododendron.bone.020_end_end",
+   "rhododendron.bone.036_end_end",
+   "rhododendron.bone.038_end_end",
+   "rhododendron.bone.040_end_end",
+   "rhododendron.bone.042_end_end",
+   "rhododendron.bone.024_end_end",
+   "rhododendron.bone.026_end_end",
+   "rhododendron.bone.028_end_end",
+   "rhododendron.bone.030_end_end",
+   "rhododendron.bone.032_end_end",
+   "rhododendron.bone.034_end_end"
+  ]
+ },
+ "skin": {
+  "skins": 0,
+  "clusters": 0,
+  "blendshapes": 0
+ },
+ "poses": [],
+ "materials": [
+  {
+   "name": "Broom_Creeper_Mat",
+   "shading": "Phong",
+   "diffuse": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissive": null,
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_GrassPatchyGround_4585/2K/Poliigon_GrassPatchyGround_4585_BaseColor.jpg"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_GrassPatchyGround_4585/2K/Poliigon_GrassPatchyGround_4585_Normal.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_GrassPatchyGround_4585/2K/Poliigon_GrassPatchyGround_4585_Roughness.jpg"
+    },
+    {
+     "slot": "ReflectionFactor",
+     "texture": "metallic_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_GrassPatchyGround_4585/2K/Poliigon_GrassPatchyGround_4585_Metallic.jpg"
+    }
+   ]
+  },
+  {
+   "name": "jo3.001",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f83_20260726180908.png"
+    },
+    {
+     "slot": "TransparencyFactor",
+     "texture": "alpha_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f83_20260726180908.png"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/NormalMap2.png"
+    }
+   ]
+  },
+  {
+   "name": "jo5.001",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f80_20260726170725.png"
+    },
+    {
+     "slot": "TransparencyFactor",
+     "texture": "alpha_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f80_20260726170725.png"
+    }
+   ]
+  },
+  {
+   "name": "Material.004",
+   "shading": "Phong",
+   "diffuse": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissive": null,
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_BaseColor.jpg"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Normal.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Roughness.jpg"
+    },
+    {
+     "slot": "ReflectionFactor",
+     "texture": "metallic_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Metallic.jpg"
+    }
+   ]
+  },
+  {
+   "name": "Material.002",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_GrassPatchyGround_4585/2K/Poliigon_GrassPatchyGround_4585_BaseColor.jpg"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_GrassPatchyGround_4585/2K/Poliigon_GrassPatchyGround_4585_Normal.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_GrassPatchyGround_4585/2K/Poliigon_GrassPatchyGround_4585_Roughness.jpg"
+    },
+    {
+     "slot": "ReflectionFactor",
+     "texture": "metallic_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_GrassPatchyGround_4585/2K/Poliigon_GrassPatchyGround_4585_Metallic.jpg"
+    }
+   ]
+  },
+  {
+   "name": "jo3.002",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f83_20260726180908.png"
+    },
+    {
+     "slot": "TransparencyFactor",
+     "texture": "alpha_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f83_20260726180908.png"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/NormalMap2.png"
+    }
+   ]
+  },
+  {
+   "name": "jo3.003",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f83_20260726180908.png"
+    },
+    {
+     "slot": "TransparencyFactor",
+     "texture": "alpha_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f83_20260726180908.png"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/NormalMap2.png"
+    }
+   ]
+  },
+  {
+   "name": "Material",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_COL_VAR3_2K.jpg"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg"
+    }
+   ]
+  },
+  {
+   "name": "Material.013",
+   "shading": "Phong",
+   "diffuse": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg"
+    }
+   ]
+  },
+  {
+   "name": "Material.014",
+   "shading": "Phong",
+   "diffuse": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg"
+    }
+   ]
+  },
+  {
+   "name": "Material.015",
+   "shading": "Phong",
+   "diffuse": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg"
+    }
+   ]
+  },
+  {
+   "name": "Material.016",
+   "shading": "Phong",
+   "diffuse": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg"
+    }
+   ]
+  },
+  {
+   "name": "Material.017",
+   "shading": "Phong",
+   "diffuse": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg"
+    }
+   ]
+  },
+  {
+   "name": "Material.018",
+   "shading": "Phong",
+   "diffuse": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg"
+    }
+   ]
+  },
+  {
+   "name": "Material.019",
+   "shading": "Phong",
+   "diffuse": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg"
+    }
+   ]
+  },
+  {
+   "name": "Material.020",
+   "shading": "Phong",
+   "diffuse": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg"
+    }
+   ]
+  },
+  {
+   "name": "jo4.001",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173818.png"
+    },
+    {
+     "slot": "TransparencyFactor",
+     "texture": "alpha_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173818.png"
+    }
+   ]
+  },
+  {
+   "name": "jo4.002",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173818.png"
+    },
+    {
+     "slot": "TransparencyFactor",
+     "texture": "alpha_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173818.png"
+    }
+   ]
+  },
+  {
+   "name": "Material.003",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/cgaxis_hdri_skies_03_20.jpg0BBCFA90-D621-4D83-AA5A-3FDCCF398C5EDefault.jpg"
+    },
+    {
+     "slot": "EmissiveColor",
+     "texture": "emission_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/cgaxis_hdri_skies_03_20.jpg0BBCFA90-D621-4D83-AA5A-3FDCCF398C5EDefault.jpg"
+    }
+   ]
+  },
+  {
+   "name": "jo2.001",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png"
+    },
+    {
+     "slot": "TransparencyFactor",
+     "texture": "alpha_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/NormalMap.png"
+    }
+   ]
+  },
+  {
+   "name": "jo2.003",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png"
+    },
+    {
+     "slot": "TransparencyFactor",
+     "texture": "alpha_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/NormalMap.png"
+    }
+   ]
+  },
+  {
+   "name": "jo2.004",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png"
+    },
+    {
+     "slot": "TransparencyFactor",
+     "texture": "alpha_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/NormalMap.png"
+    }
+   ]
+  },
+  {
+   "name": "jo2.005",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png"
+    },
+    {
+     "slot": "TransparencyFactor",
+     "texture": "alpha_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/NormalMap.png"
+    }
+   ]
+  },
+  {
+   "name": "jo2.006",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png"
+    },
+    {
+     "slot": "TransparencyFactor",
+     "texture": "alpha_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/NormalMap.png"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface9",
+   "shading": "Phong",
+   "diffuse": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissive": null,
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_BaseColor.jpg"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Normal.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Roughness.jpg"
+    },
+    {
+     "slot": "ReflectionFactor",
+     "texture": "metallic_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Metallic.jpg"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface4",
+   "shading": "Phong",
+   "diffuse": [
+    1.0,
+    0.0,
+    0.036
+   ],
+   "emissive": null,
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalSteelBrushed_7174/2K/Poliigon_MetalSteelBrushed_7174_Normal.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalSteelBrushed_7174/2K/Poliigon_MetalSteelBrushed_7174_Roughness.jpg"
+    },
+    {
+     "slot": "ReflectionFactor",
+     "texture": "metallic_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalSteelBrushed_7174/2K/Poliigon_MetalSteelBrushed_7174_Metallic.jpg"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface14",
+   "shading": "Phong",
+   "diffuse": [
+    0.001,
+    0.0,
+    0.008
+   ],
+   "emissive": null,
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Normal.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Roughness.jpg"
+    },
+    {
+     "slot": "ReflectionFactor",
+     "texture": "metallic_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Metallic.jpg"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface15",
+   "shading": "Phong",
+   "diffuse": [
+    0.001,
+    0.0,
+    0.008
+   ],
+   "emissive": null,
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Normal.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Roughness.jpg"
+    },
+    {
+     "slot": "ReflectionFactor",
+     "texture": "metallic_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Metallic.jpg"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface16",
+   "shading": "Phong",
+   "diffuse": [
+    0.001,
+    0.0,
+    0.008
+   ],
+   "emissive": null,
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Normal.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Roughness.jpg"
+    },
+    {
+     "slot": "ReflectionFactor",
+     "texture": "metallic_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Metallic.jpg"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface12",
+   "shading": "Phong",
+   "diffuse": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissive": null,
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_BaseColor.jpg"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Normal.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Roughness.jpg"
+    },
+    {
+     "slot": "ReflectionFactor",
+     "texture": "metallic_texture",
+     "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Metallic.jpg"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface1",
+   "shading": "Phong",
+   "diffuse": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissive": null,
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_BaseColor.jpg"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Normal.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Roughness.jpg"
+    },
+    {
+     "slot": "ReflectionFactor",
+     "texture": "metallic_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Metallic.jpg"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface7",
+   "shading": "Phong",
+   "diffuse": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissive": null,
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_BaseColor.jpg"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Normal.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Roughness.jpg"
+    },
+    {
+     "slot": "ReflectionFactor",
+     "texture": "metallic_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Metallic.jpg"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface19",
+   "shading": "Phong",
+   "diffuse": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissive": null,
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_BaseColor.jpg"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Normal.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Roughness.jpg"
+    },
+    {
+     "slot": "ReflectionFactor",
+     "texture": "metallic_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Metallic.jpg"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface10",
+   "shading": "Phong",
+   "diffuse": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissive": null,
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalRust_7642/2K/Poliigon_MetalRust_7642_BaseColor.jpg"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalRust_7642/2K/Poliigon_MetalRust_7642_Normal.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalRust_7642/2K/Poliigon_MetalRust_7642_Roughness.jpg"
+    },
+    {
+     "slot": "ReflectionFactor",
+     "texture": "metallic_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalRust_7642/2K/Poliigon_MetalRust_7642_Metallic.jpg"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface17",
+   "shading": "Phong",
+   "diffuse": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissive": null,
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Downloads/Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_BaseColor.jpg"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Downloads/Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Normal.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "/Users/sannthosh/Downloads/Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Roughness.jpg"
+    },
+    {
+     "slot": "ReflectionFactor",
+     "texture": "metallic_texture",
+     "file": "/Users/sannthosh/Downloads/Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Metallic.jpg"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface6",
+   "shading": "Phong",
+   "diffuse": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissive": null,
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_BaseColor.jpg"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Normal.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Roughness.jpg"
+    },
+    {
+     "slot": "ReflectionFactor",
+     "texture": "metallic_texture",
+     "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Metallic.jpg"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface3",
+   "shading": "Phong",
+   "diffuse": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissive": null,
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_BaseColor.jpg"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Normal.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Roughness.jpg"
+    },
+    {
+     "slot": "ReflectionFactor",
+     "texture": "metallic_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Metallic.jpg"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface13",
+   "shading": "Phong",
+   "diffuse": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissive": null,
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_BaseColor.jpg"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Normal.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Roughness.jpg"
+    },
+    {
+     "slot": "ReflectionFactor",
+     "texture": "metallic_texture",
+     "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Metallic.jpg"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface2",
+   "shading": "Phong",
+   "diffuse": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissive": null,
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Downloads/Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_BaseColor.jpg"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Downloads/Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Normal.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "/Users/sannthosh/Downloads/Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Roughness.jpg"
+    },
+    {
+     "slot": "ReflectionFactor",
+     "texture": "metallic_texture",
+     "file": "/Users/sannthosh/Downloads/Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Metallic.jpg"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface11",
+   "shading": "Phong",
+   "diffuse": [
+    1.0,
+    0.0,
+    0.036
+   ],
+   "emissive": null,
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalSteelBrushed_7174/2K/Poliigon_MetalSteelBrushed_7174_Normal.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalSteelBrushed_7174/2K/Poliigon_MetalSteelBrushed_7174_Roughness.jpg"
+    },
+    {
+     "slot": "ReflectionFactor",
+     "texture": "metallic_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalSteelBrushed_7174/2K/Poliigon_MetalSteelBrushed_7174_Metallic.jpg"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface8",
+   "shading": "Phong",
+   "diffuse": [
+    0.328,
+    0.0,
+    0.009
+   ],
+   "emissive": null,
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Normal.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Roughness.jpg"
+    },
+    {
+     "slot": "ReflectionFactor",
+     "texture": "metallic_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Metallic.jpg"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface5",
+   "shading": "Phong",
+   "diffuse": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "emissive": null,
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "/Users/sannthosh/Downloads/Poliigon_WoodRoofShingle_7834/2K/Poliigon_WoodRoofShingle_7834_BaseColor.jpg"
+    },
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /BarkPoplar001/BarkPoplar001_NRM_2K.jpg"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface18",
+   "shading": "Phong",
+   "diffuse": [
+    0.328,
+    0.0,
+    0.009
+   ],
+   "emissive": null,
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "NormalMap",
+     "texture": "normalmap_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Normal.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Roughness.jpg"
+    },
+    {
+     "slot": "ReflectionFactor",
+     "texture": "metallic_texture",
+     "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Metallic.jpg"
+    }
+   ]
+  }
+ ],
+ "textures": [
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_GrassPatchyGround_4585/2K/Poliigon_GrassPatchyGround_4585_BaseColor.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_GrassPatchyGround_4585/2K/Poliigon_GrassPatchyGround_4585_BaseColor.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_GrassPatchyGround_4585/2K/Poliigon_GrassPatchyGround_4585_Normal.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_GrassPatchyGround_4585/2K/Poliigon_GrassPatchyGround_4585_Normal.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_GrassPatchyGround_4585/2K/Poliigon_GrassPatchyGround_4585_Roughness.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_GrassPatchyGround_4585/2K/Poliigon_GrassPatchyGround_4585_Roughness.jpg"
+  },
+  {
+   "name": "metallic_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_GrassPatchyGround_4585/2K/Poliigon_GrassPatchyGround_4585_Metallic.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_GrassPatchyGround_4585/2K/Poliigon_GrassPatchyGround_4585_Metallic.jpg"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f83_20260726180908.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f83_20260726180908.png"
+  },
+  {
+   "name": "alpha_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f83_20260726180908.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f83_20260726180908.png"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/NormalMap2.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/NormalMap2.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f80_20260726170725.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f80_20260726170725.png"
+  },
+  {
+   "name": "alpha_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f80_20260726170725.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f80_20260726170725.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_BaseColor.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_BaseColor.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Normal.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Normal.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Roughness.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Roughness.jpg"
+  },
+  {
+   "name": "metallic_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Metallic.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Metallic.jpg"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_GrassPatchyGround_4585/2K/Poliigon_GrassPatchyGround_4585_BaseColor.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_GrassPatchyGround_4585/2K/Poliigon_GrassPatchyGround_4585_BaseColor.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_GrassPatchyGround_4585/2K/Poliigon_GrassPatchyGround_4585_Normal.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_GrassPatchyGround_4585/2K/Poliigon_GrassPatchyGround_4585_Normal.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_GrassPatchyGround_4585/2K/Poliigon_GrassPatchyGround_4585_Roughness.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_GrassPatchyGround_4585/2K/Poliigon_GrassPatchyGround_4585_Roughness.jpg"
+  },
+  {
+   "name": "metallic_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_GrassPatchyGround_4585/2K/Poliigon_GrassPatchyGround_4585_Metallic.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_GrassPatchyGround_4585/2K/Poliigon_GrassPatchyGround_4585_Metallic.jpg"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f83_20260726180908.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f83_20260726180908.png"
+  },
+  {
+   "name": "alpha_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f83_20260726180908.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f83_20260726180908.png"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/NormalMap2.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/NormalMap2.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f83_20260726180908.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f83_20260726180908.png"
+  },
+  {
+   "name": "alpha_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f83_20260726180908.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f83_20260726180908.png"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/NormalMap2.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/NormalMap2.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_COL_VAR3_2K.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_COL_VAR3_2K.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173818.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173818.png"
+  },
+  {
+   "name": "alpha_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173818.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173818.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173818.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173818.png"
+  },
+  {
+   "name": "alpha_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173818.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173818.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/cgaxis_hdri_skies_03_20.jpg0BBCFA90-D621-4D83-AA5A-3FDCCF398C5EDefault.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/cgaxis_hdri_skies_03_20.jpg0BBCFA90-D621-4D83-AA5A-3FDCCF398C5EDefault.jpg"
+  },
+  {
+   "name": "emission_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/cgaxis_hdri_skies_03_20.jpg0BBCFA90-D621-4D83-AA5A-3FDCCF398C5EDefault.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/cgaxis_hdri_skies_03_20.jpg0BBCFA90-D621-4D83-AA5A-3FDCCF398C5EDefault.jpg"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png"
+  },
+  {
+   "name": "alpha_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/NormalMap.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/NormalMap.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png"
+  },
+  {
+   "name": "alpha_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/NormalMap.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/NormalMap.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png"
+  },
+  {
+   "name": "alpha_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/NormalMap.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/NormalMap.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png"
+  },
+  {
+   "name": "alpha_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/NormalMap.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/NormalMap.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png"
+  },
+  {
+   "name": "alpha_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/NormalMap.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/NormalMap.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_BaseColor.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_BaseColor.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Normal.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Normal.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Roughness.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Roughness.jpg"
+  },
+  {
+   "name": "metallic_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Metallic.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Metallic.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalSteelBrushed_7174/2K/Poliigon_MetalSteelBrushed_7174_Normal.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalSteelBrushed_7174/2K/Poliigon_MetalSteelBrushed_7174_Normal.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalSteelBrushed_7174/2K/Poliigon_MetalSteelBrushed_7174_Roughness.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalSteelBrushed_7174/2K/Poliigon_MetalSteelBrushed_7174_Roughness.jpg"
+  },
+  {
+   "name": "metallic_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalSteelBrushed_7174/2K/Poliigon_MetalSteelBrushed_7174_Metallic.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalSteelBrushed_7174/2K/Poliigon_MetalSteelBrushed_7174_Metallic.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Normal.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Normal.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Roughness.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Roughness.jpg"
+  },
+  {
+   "name": "metallic_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Metallic.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Metallic.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Normal.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Normal.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Roughness.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Roughness.jpg"
+  },
+  {
+   "name": "metallic_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Metallic.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Metallic.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Normal.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Normal.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Roughness.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Roughness.jpg"
+  },
+  {
+   "name": "metallic_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Metallic.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Metallic.jpg"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_BaseColor.jpg",
+   "relative": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_BaseColor.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Normal.png",
+   "relative": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Normal.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Roughness.jpg",
+   "relative": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Roughness.jpg"
+  },
+  {
+   "name": "metallic_texture",
+   "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Metallic.jpg",
+   "relative": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Metallic.jpg"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_BaseColor.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_BaseColor.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Normal.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Normal.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Roughness.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Roughness.jpg"
+  },
+  {
+   "name": "metallic_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Metallic.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Metallic.jpg"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_BaseColor.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_BaseColor.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Normal.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Normal.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Roughness.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Roughness.jpg"
+  },
+  {
+   "name": "metallic_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Metallic.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Metallic.jpg"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_BaseColor.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_BaseColor.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Normal.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Normal.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Roughness.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Roughness.jpg"
+  },
+  {
+   "name": "metallic_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Metallic.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Metallic.jpg"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalRust_7642/2K/Poliigon_MetalRust_7642_BaseColor.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalRust_7642/2K/Poliigon_MetalRust_7642_BaseColor.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalRust_7642/2K/Poliigon_MetalRust_7642_Normal.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalRust_7642/2K/Poliigon_MetalRust_7642_Normal.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalRust_7642/2K/Poliigon_MetalRust_7642_Roughness.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalRust_7642/2K/Poliigon_MetalRust_7642_Roughness.jpg"
+  },
+  {
+   "name": "metallic_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalRust_7642/2K/Poliigon_MetalRust_7642_Metallic.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalRust_7642/2K/Poliigon_MetalRust_7642_Metallic.jpg"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Downloads/Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_BaseColor.jpg",
+   "relative": "/Users/sannthosh/Downloads/Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_BaseColor.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Downloads/Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Normal.png",
+   "relative": "/Users/sannthosh/Downloads/Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Normal.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "/Users/sannthosh/Downloads/Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Roughness.jpg",
+   "relative": "/Users/sannthosh/Downloads/Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Roughness.jpg"
+  },
+  {
+   "name": "metallic_texture",
+   "file": "/Users/sannthosh/Downloads/Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Metallic.jpg",
+   "relative": "/Users/sannthosh/Downloads/Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Metallic.jpg"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_BaseColor.jpg",
+   "relative": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_BaseColor.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Normal.png",
+   "relative": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Normal.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Roughness.jpg",
+   "relative": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Roughness.jpg"
+  },
+  {
+   "name": "metallic_texture",
+   "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Metallic.jpg",
+   "relative": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Metallic.jpg"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_BaseColor.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_BaseColor.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Normal.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Normal.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Roughness.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Roughness.jpg"
+  },
+  {
+   "name": "metallic_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Metallic.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Metallic.jpg"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_BaseColor.jpg",
+   "relative": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_BaseColor.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Normal.png",
+   "relative": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Normal.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Roughness.jpg",
+   "relative": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Roughness.jpg"
+  },
+  {
+   "name": "metallic_texture",
+   "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Metallic.jpg",
+   "relative": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Metallic.jpg"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Downloads/Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_BaseColor.jpg",
+   "relative": "/Users/sannthosh/Downloads/Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_BaseColor.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Downloads/Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Normal.png",
+   "relative": "/Users/sannthosh/Downloads/Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Normal.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "/Users/sannthosh/Downloads/Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Roughness.jpg",
+   "relative": "/Users/sannthosh/Downloads/Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Roughness.jpg"
+  },
+  {
+   "name": "metallic_texture",
+   "file": "/Users/sannthosh/Downloads/Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Metallic.jpg",
+   "relative": "/Users/sannthosh/Downloads/Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Metallic.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalSteelBrushed_7174/2K/Poliigon_MetalSteelBrushed_7174_Normal.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalSteelBrushed_7174/2K/Poliigon_MetalSteelBrushed_7174_Normal.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalSteelBrushed_7174/2K/Poliigon_MetalSteelBrushed_7174_Roughness.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalSteelBrushed_7174/2K/Poliigon_MetalSteelBrushed_7174_Roughness.jpg"
+  },
+  {
+   "name": "metallic_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalSteelBrushed_7174/2K/Poliigon_MetalSteelBrushed_7174_Metallic.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalSteelBrushed_7174/2K/Poliigon_MetalSteelBrushed_7174_Metallic.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Normal.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Normal.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Roughness.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Roughness.jpg"
+  },
+  {
+   "name": "metallic_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Metallic.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Metallic.jpg"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "/Users/sannthosh/Downloads/Poliigon_WoodRoofShingle_7834/2K/Poliigon_WoodRoofShingle_7834_BaseColor.jpg",
+   "relative": "/Users/sannthosh/Downloads/Poliigon_WoodRoofShingle_7834/2K/Poliigon_WoodRoofShingle_7834_BaseColor.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /BarkPoplar001/BarkPoplar001_NRM_2K.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /BarkPoplar001/BarkPoplar001_NRM_2K.jpg"
+  },
+  {
+   "name": "normalmap_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Normal.png",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Normal.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Roughness.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Roughness.jpg"
+  },
+  {
+   "name": "metallic_texture",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Metallic.jpg",
+   "relative": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Metallic.jpg"
+  }
+ ],
+ "videos": [
+  {
+   "name": "Poliigon_GrassPatchyGround_4585_BaseColor.jpg",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_GrassPatchyGround_4585/2K/Poliigon_GrassPatchyGround_4585_BaseColor.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_GrassPatchyGround_4585_Normal.png",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_GrassPatchyGround_4585/2K/Poliigon_GrassPatchyGround_4585_Normal.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_GrassPatchyGround_4585_Roughness.jpg",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_GrassPatchyGround_4585/2K/Poliigon_GrassPatchyGround_4585_Roughness.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_GrassPatchyGround_4585_Metallic.jpg",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_GrassPatchyGround_4585/2K/Poliigon_GrassPatchyGround_4585_Metallic.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f83_20260726180908.png.003",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f83_20260726180908.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f83_20260726180908.png.005",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f83_20260726180908.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "NormalMap2.png.001",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/NormalMap2.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f80_20260726170725.png.003",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f80_20260726170725.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f80_20260726170725.png.005",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f80_20260726170725.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_WoodFloorAsh_4186_BaseColor.jpg.001",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_BaseColor.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_WoodFloorAsh_4186_Normal.png.001",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Normal.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_WoodFloorAsh_4186_Roughness.jpg.001",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Roughness.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_WoodFloorAsh_4186_Metallic.jpg.001",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Metallic.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f83_20260726180908.png.001",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f83_20260726180908.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f83_20260726180908.png.004",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f83_20260726180908.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "NormalMap2.png.002",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/NormalMap2.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f83_20260726180908.png.006",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f83_20260726180908.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f83_20260726180908.png.007",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f83_20260726180908.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "NormalMap2.png.003",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/NormalMap2.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "FabricLeatherCowhide001_COL_VAR3_2K.jpg",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_COL_VAR3_2K.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "FabricLeatherCowhide001_NRM_2K.jpg",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "FabricLeatherCowhide001_NRM_2K.jpg.001",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "FabricLeatherCowhide001_NRM_2K.jpg.002",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "FabricLeatherCowhide001_NRM_2K.jpg.003",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "FabricLeatherCowhide001_NRM_2K.jpg.004",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "FabricLeatherCowhide001_NRM_2K.jpg.005",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "FabricLeatherCowhide001_NRM_2K.jpg.006",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "FabricLeatherCowhide001_NRM_2K.jpg.007",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /FabricLeatherCowhide001/FabricLeatherCowhide001_NRM_2K.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173818.png.003",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173818.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173818.png.005",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173818.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173818.png.001",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173818.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173818.png.004",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173818.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "cgaxis_hdri_skies_03_20.jpg0BBCFA90-D621-4D83-AA5A-3FDC_9e5",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/cgaxis_hdri_skies_03_20.jpg0BBCFA90-D621-4D83-AA5A-3FDCCF398C5EDefault.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png.002",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png.003",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "NormalMap.png.001",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/NormalMap.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png.006",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png.007",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "NormalMap.png.003",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/NormalMap.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png.008",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png.009",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "NormalMap.png.004",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/NormalMap.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png.010",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png.011",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "NormalMap.png.005",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/NormalMap.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png.012",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png.013",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f82_20260726173035.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "NormalMap.png.006",
+   "file": "/Users/sannthosh/Desktop/blender edited /asserts/japanes environment /source/\u043b\u043e\u043a\u0430\u0446\u0438\u044f  \u043d\u0430 \u0441\u043a\u0435\u0442\u0447.fbm/NormalMap.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_WoodVeneerOak_7760_BaseColor.jpg",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_BaseColor.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_WoodVeneerOak_7760_Normal.png",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Normal.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_WoodVeneerOak_7760_Roughness.jpg",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Roughness.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_WoodVeneerOak_7760_Metallic.jpg",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Metallic.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_MetalSteelBrushed_7174_Normal.png",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalSteelBrushed_7174/2K/Poliigon_MetalSteelBrushed_7174_Normal.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_MetalSteelBrushed_7174_Roughness.jpg",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalSteelBrushed_7174/2K/Poliigon_MetalSteelBrushed_7174_Roughness.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_MetalSteelBrushed_7174_Metallic.jpg",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalSteelBrushed_7174/2K/Poliigon_MetalSteelBrushed_7174_Metallic.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_RattanWeave_6945_Normal.png",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Normal.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_RattanWeave_6945_Roughness.jpg",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Roughness.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_RattanWeave_6945_Metallic.jpg",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_RattanWeave_6945/2K/Poliigon_RattanWeave_6945_Metallic.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_MetalGoldPaint_7253_BaseColor.jpg",
+   "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_BaseColor.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_MetalGoldPaint_7253_Normal.png",
+   "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Normal.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_MetalGoldPaint_7253_Roughness.jpg",
+   "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Roughness.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_MetalGoldPaint_7253_Metallic.jpg",
+   "file": "/Users/sannthosh/Downloads/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Metallic.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_MetalRust_7642_BaseColor.jpg",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalRust_7642/2K/Poliigon_MetalRust_7642_BaseColor.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_MetalRust_7642_Normal.png",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalRust_7642/2K/Poliigon_MetalRust_7642_Normal.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_MetalRust_7642_Roughness.jpg",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalRust_7642/2K/Poliigon_MetalRust_7642_Roughness.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_MetalRust_7642_Metallic.jpg",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /Poliigon_MetalRust_7642/2K/Poliigon_MetalRust_7642_Metallic.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_WoodFloorAsh_4186_BaseColor.jpg",
+   "file": "/Users/sannthosh/Downloads/Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_BaseColor.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_WoodFloorAsh_4186_Normal.png",
+   "file": "/Users/sannthosh/Downloads/Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Normal.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_WoodFloorAsh_4186_Roughness.jpg",
+   "file": "/Users/sannthosh/Downloads/Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Roughness.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_WoodFloorAsh_4186_Metallic.jpg",
+   "file": "/Users/sannthosh/Downloads/Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Metallic.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "Poliigon_WoodRoofShingle_7834_BaseColor.jpg",
+   "file": "/Users/sannthosh/Downloads/Poliigon_WoodRoofShingle_7834/2K/Poliigon_WoodRoofShingle_7834_BaseColor.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "BarkPoplar001_NRM_2K.jpg",
+   "file": "/Users/sannthosh/Desktop/blender edited /textures /BarkPoplar001/BarkPoplar001_NRM_2K.jpg",
+   "embedded_bytes": 0
+  }
+ ],
+ "animations": [
+  {
+   "name": "Insect|Insect|Insect|fly",
+   "start_s": 0.0,
+   "stop_s": 16.76,
+   "duration_s": 16.76,
+   "layers": 1,
+   "curve_nodes": 197,
+   "total_keys": 35068,
+   "last_key_s": 16.76,
+   "animated_nodes": 0,
+   "animated_sample": []
+  }
+ ]
+}

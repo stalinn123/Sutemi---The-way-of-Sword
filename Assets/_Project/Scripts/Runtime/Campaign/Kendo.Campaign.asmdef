@@ -1,0 +1,14 @@
+{
+    "name": "Kendo.Campaign",
+    "rootNamespace": "Kendo.Campaign",
+    "references": ["Kendo.Rules", "Kendo.AI"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

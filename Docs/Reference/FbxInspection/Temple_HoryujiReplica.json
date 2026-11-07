@@ -1,0 +1,2250 @@
+{
+ "file": "dojo2.fbx",
+ "size_mb": 69.26,
+ "fbx_version": 7400,
+ "creator": "Blender (stable FBX IO) - 5.2.0 LTS - 5.15.0",
+ "original_app": "Blender (stable FBX IO) 5.2.0 LTS",
+ "original_file": "/foobar.fbx",
+ "global": {
+  "UpAxis": 1,
+  "UpAxisSign": 1,
+  "FrontAxis": 2,
+  "FrontAxisSign": 1,
+  "CoordAxis": 0,
+  "UnitScaleFactor": 1.0,
+  "OriginalUnitScaleFactor": 1.0,
+  "TimeMode": 11,
+  "CustomFrameRate": 24.0,
+  "TimeSpanStop": 46186158000
+ },
+ "meshes": [
+  {
+   "name": "Mesh.027",
+   "verts": 286786,
+   "polys": 438046,
+   "tris": 438046,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVChannel_1",
+    "UVChannel_2"
+   ],
+   "vertex_colors": true,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Broom_Creeper_xfqicgrqx_Var3_LOD5",
+   "local_bounds_min": [
+    -948.389,
+    -633.398,
+    -875.286
+   ],
+   "local_bounds_max": [
+    948.389,
+    633.398,
+    875.286
+   ]
+  },
+  {
+   "name": "Cube.184",
+   "verts": 8,
+   "polys": 6,
+   "tris": 12,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "UVMap"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "Main Raised Platform",
+   "local_bounds_min": [
+    -8.2,
+    -6.0,
+    -0.15
+   ],
+   "local_bounds_max": [
+    8.2,
+    6.0,
+    0.15
+   ]
+  },
+  {
+   "name": "Mesh.018",
+   "verts": 1339,
+   "polys": 1241,
+   "tris": 2512,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "pCube24",
+   "local_bounds_min": [
+    -718.318,
+    -337.466,
+    -535.444
+   ],
+   "local_bounds_max": [
+    718.318,
+    337.466,
+    535.444
+   ]
+  },
+  {
+   "name": "Mesh.022",
+   "verts": 608,
+   "polys": 544,
+   "tris": 1152,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "pCube37",
+   "local_bounds_min": [
+    -1060.861,
+    -147.783,
+    -892.187
+   ],
+   "local_bounds_max": [
+    1060.861,
+    213.798,
+    892.187
+   ]
+  },
+  {
+   "name": "Mesh.028",
+   "verts": 384,
+   "polys": 356,
+   "tris": 712,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "pCube41",
+   "local_bounds_min": [
+    -1858.362,
+    -40.654,
+    -145.235
+   ],
+   "local_bounds_max": [
+    2.5,
+    40.654,
+    145.235
+   ]
+  },
+  {
+   "name": "Mesh.026",
+   "verts": 433616,
+   "polys": 383390,
+   "tris": 848490,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "pCylinder128",
+   "local_bounds_min": [
+    -727.733,
+    -164.329,
+    -544.218
+   ],
+   "local_bounds_max": [
+    727.733,
+    164.329,
+    544.218
+   ]
+  },
+  {
+   "name": "Mesh.011",
+   "verts": 337126,
+   "polys": 300948,
+   "tris": 658008,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "pCylinder94",
+   "local_bounds_min": [
+    -1059.974,
+    -120.699,
+    -1511.818
+   ],
+   "local_bounds_max": [
+    1059.974,
+    120.699,
+    254.134
+   ]
+  },
+  {
+   "name": "Mesh.012",
+   "verts": 255700,
+   "polys": 227628,
+   "tris": 497368,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "pCylinder97",
+   "local_bounds_min": [
+    -254.134,
+    -120.699,
+    -882.094
+   ],
+   "local_bounds_max": [
+    1868.278,
+    120.699,
+    882.094
+   ]
+  },
+  {
+   "name": "Mesh.014",
+   "verts": 4080,
+   "polys": 3940,
+   "tris": 7880,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "pPlane16",
+   "local_bounds_min": [
+    -554.978,
+    -26.813,
+    -377.641
+   ],
+   "local_bounds_max": [
+    554.978,
+    26.813,
+    377.641
+   ]
+  },
+  {
+   "name": "Mesh.021",
+   "verts": 946,
+   "polys": 916,
+   "tris": 1840,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "pPlane23",
+   "local_bounds_min": [
+    -1512.175,
+    -95.469,
+    -1298.044
+   ],
+   "local_bounds_max": [
+    1512.175,
+    95.469,
+    1298.044
+   ]
+  },
+  {
+   "name": "Mesh.001",
+   "verts": 714,
+   "polys": 712,
+   "tris": 1424,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "pPlane6",
+   "local_bounds_min": [
+    -50.582,
+    0.0,
+    -50.752
+   ],
+   "local_bounds_max": [
+    50.582,
+    18.984,
+    50.752
+   ]
+  },
+  {
+   "name": "Mesh.010",
+   "verts": 48,
+   "polys": 46,
+   "tris": 92,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "pPlane7",
+   "local_bounds_min": [
+    -50.0,
+    -10.437,
+    -50.0
+   ],
+   "local_bounds_max": [
+    50.0,
+    0.0,
+    50.0
+   ]
+  },
+  {
+   "name": "Mesh.015",
+   "verts": 3184,
+   "polys": 2790,
+   "tris": 6272,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "polySurface142",
+   "local_bounds_min": [
+    -425.239,
+    -41.52,
+    -301.673
+   ],
+   "local_bounds_max": [
+    425.239,
+    41.52,
+    301.673
+   ]
+  },
+  {
+   "name": "Mesh.016",
+   "verts": 11916,
+   "polys": 13848,
+   "tris": 27696,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "polySurface152",
+   "local_bounds_min": [
+    -363.844,
+    -111.891,
+    -238.612
+   ],
+   "local_bounds_max": [
+    363.844,
+    111.891,
+    238.612
+   ]
+  },
+  {
+   "name": "Mesh.017",
+   "verts": 4024,
+   "polys": 3522,
+   "tris": 7920,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "polySurface153",
+   "local_bounds_min": [
+    -885.593,
+    -69.201,
+    -710.953
+   ],
+   "local_bounds_max": [
+    885.593,
+    69.201,
+    710.953
+   ]
+  },
+  {
+   "name": "Mesh.020",
+   "verts": 4480,
+   "polys": 3752,
+   "tris": 6608,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "polySurface164",
+   "local_bounds_min": [
+    -932.12,
+    -108.531,
+    -767.12
+   ],
+   "local_bounds_max": [
+    932.12,
+    108.531,
+    767.12
+   ]
+  },
+  {
+   "name": "Mesh.024",
+   "verts": 2524,
+   "polys": 2432,
+   "tris": 4936,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "polySurface165",
+   "local_bounds_min": [
+    -560.527,
+    -25.779,
+    -384.736
+   ],
+   "local_bounds_max": [
+    560.527,
+    25.779,
+    384.736
+   ]
+  },
+  {
+   "name": "Mesh.002",
+   "verts": 48,
+   "polys": 44,
+   "tris": 96,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "polySurface48",
+   "local_bounds_min": [
+    449.974,
+    312.558,
+    618.471
+   ],
+   "local_bounds_max": [
+    480.026,
+    387.14,
+    712.405
+   ]
+  },
+  {
+   "name": "Mesh.003",
+   "verts": 138,
+   "polys": 119,
+   "tris": 272,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "polySurface49",
+   "local_bounds_min": [
+    330.156,
+    310.18,
+    605.814
+   ],
+   "local_bounds_max": [
+    599.844,
+    387.402,
+    618.472
+   ]
+  },
+  {
+   "name": "Mesh.004",
+   "verts": 48,
+   "polys": 44,
+   "tris": 96,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "polySurface50",
+   "local_bounds_min": [
+    139.974,
+    312.558,
+    621.677
+   ],
+   "local_bounds_max": [
+    170.026,
+    387.14,
+    715.611
+   ]
+  },
+  {
+   "name": "Mesh.005",
+   "verts": 138,
+   "polys": 119,
+   "tris": 272,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "polySurface51",
+   "local_bounds_min": [
+    20.156,
+    310.18,
+    609.02
+   ],
+   "local_bounds_max": [
+    289.844,
+    387.402,
+    621.678
+   ]
+  },
+  {
+   "name": "Mesh.006",
+   "verts": 48,
+   "polys": 44,
+   "tris": 96,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "polySurface52",
+   "local_bounds_min": [
+    -170.026,
+    312.558,
+    621.677
+   ],
+   "local_bounds_max": [
+    -139.974,
+    387.14,
+    715.611
+   ]
+  },
+  {
+   "name": "Mesh.007",
+   "verts": 138,
+   "polys": 119,
+   "tris": 272,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "polySurface53",
+   "local_bounds_min": [
+    -289.844,
+    310.18,
+    609.02
+   ],
+   "local_bounds_max": [
+    -20.156,
+    387.402,
+    621.678
+   ]
+  },
+  {
+   "name": "Mesh.008",
+   "verts": 48,
+   "polys": 44,
+   "tris": 96,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "polySurface54",
+   "local_bounds_min": [
+    -480.026,
+    312.558,
+    621.677
+   ],
+   "local_bounds_max": [
+    -449.974,
+    387.14,
+    715.611
+   ]
+  },
+  {
+   "name": "Mesh.009",
+   "verts": 138,
+   "polys": 119,
+   "tris": 272,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "polySurface55",
+   "local_bounds_min": [
+    -599.844,
+    310.18,
+    609.02
+   ],
+   "local_bounds_max": [
+    -330.156,
+    387.402,
+    621.678
+   ]
+  },
+  {
+   "name": "Mesh",
+   "verts": 4166,
+   "polys": 3928,
+   "tris": 7024,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "sweep22",
+   "local_bounds_min": [
+    -0.0,
+    -217.062,
+    -1523.52
+   ],
+   "local_bounds_max": [
+    205.556,
+    0.0,
+    3.52
+   ]
+  },
+  {
+   "name": "Mesh.013",
+   "verts": 320,
+   "polys": 336,
+   "tris": 688,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "sweep30",
+   "local_bounds_min": [
+    -602.979,
+    -86.364,
+    -427.188
+   ],
+   "local_bounds_max": [
+    602.979,
+    86.364,
+    427.188
+   ]
+  },
+  {
+   "name": "Mesh.019",
+   "verts": 1728,
+   "polys": 1680,
+   "tris": 3424,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "sweep37",
+   "local_bounds_min": [
+    -1111.732,
+    -349.024,
+    -919.143
+   ],
+   "local_bounds_max": [
+    1111.732,
+    349.024,
+    919.143
+   ]
+  },
+  {
+   "name": "Mesh.023",
+   "verts": 4329,
+   "polys": 3680,
+   "tris": 8224,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "sweep38",
+   "local_bounds_min": [
+    -1015.208,
+    -157.322,
+    -854.076
+   ],
+   "local_bounds_max": [
+    1015.208,
+    157.322,
+    854.076
+   ]
+  },
+  {
+   "name": "Mesh.025",
+   "verts": 180,
+   "polys": 170,
+   "tris": 356,
+   "normals": true,
+   "tangents": false,
+   "uv_sets": [
+    "map1"
+   ],
+   "vertex_colors": false,
+   "material_slots": 1,
+   "skinned": false,
+   "model": "sweep39",
+   "local_bounds_min": [
+    -477.039,
+    -28.794,
+    -16.376
+   ],
+   "local_bounds_max": [
+    477.039,
+    35.016,
+    16.376
+   ]
+  }
+ ],
+ "totals": {
+  "mesh_count": 30,
+  "verts": 1358950,
+  "tris": 2532156
+ },
+ "world_bounds_fbx_units": {
+  "min": [
+   -1512.175,
+   -190.939,
+   -1298.044
+  ],
+  "max": [
+   1512.175,
+   1352.534,
+   1298.044
+  ],
+  "size": [
+   3024.35,
+   1543.473,
+   2596.088
+  ]
+ },
+ "world_size_meters_est": [
+  30.243,
+  15.435,
+  25.961
+ ],
+ "model_types": {
+  "Null": 38,
+  "Mesh": 30,
+  "Camera": 1,
+  "Light": 1
+ },
+ "hierarchy": [
+  "Broom_Creeper_xfqicgrqx_Var12_LOD0 [Null]",
+  "  transform166 [Null]",
+  "Broom_Creeper_xfqicgrqx_Var12_LOD1 [Null]",
+  "  transform165 [Null]",
+  "Broom_Creeper_xfqicgrqx_Var12_LOD2 [Null]",
+  "  transform156 [Null]",
+  "Broom_Creeper_xfqicgrqx_Var3_LOD0 [Null]",
+  "  transform170 [Null]",
+  "Broom_Creeper_xfqicgrqx_Var3_LOD1 [Null]",
+  "  transform164 [Null]",
+  "Broom_Creeper_xfqicgrqx_Var3_LOD2 [Null]",
+  "  transform155 [Null]",
+  "Broom_Creeper_xfqicgrqx_Var3_LOD3 [Null]",
+  "  transform154 [Null]",
+  "Broom_Creeper_xfqicgrqx_Var3_LOD4 [Null]",
+  "  transform153 [Null]",
+  "Broom_Creeper_xfqicgrqx_Var3_LOD5 [Mesh]",
+  "Broom_Creeper_xfqicgrqx_Var6_LOD0 [Null]",
+  "  transform169 [Null]",
+  "Broom_Creeper_xfqicgrqx_Var6_LOD1 [Null]",
+  "  transform159 [Null]",
+  "Broom_Creeper_xfqicgrqx_Var6_LOD2 [Null]",
+  "  transform158 [Null]",
+  "Broom_Creeper_xfqicgrqx_Var7_LOD0 [Null]",
+  "  transform168 [Null]",
+  "Broom_Creeper_xfqicgrqx_Var7_LOD1 [Null]",
+  "  transform163 [Null]",
+  "Broom_Creeper_xfqicgrqx_Var7_LOD2 [Null]",
+  "  transform162 [Null]",
+  "Broom_Creeper_xfqicgrqx_Var9_LOD0 [Null]",
+  "  transform167 [Null]",
+  "Broom_Creeper_xfqicgrqx_Var9_LOD1 [Null]",
+  "  transform161 [Null]",
+  "Broom_Creeper_xfqicgrqx_Var9_LOD2 [Null]",
+  "  transform160 [Null]",
+  "Broom_Creeper_xfqicgrqx_Var9_LOD3 [Null]",
+  "  transform157 [Null]",
+  "Camera [Camera]",
+  "Light [Light]",
+  "Main Raised Platform [Mesh]",
+  "curve1 [Null]",
+  "pCube24 [Mesh]",
+  "pCube37 [Mesh]",
+  "pCube41 [Mesh]",
+  "pCube9 [Null]",
+  "  polySurface48 [Mesh]",
+  "  polySurface49 [Mesh]",
+  "  polySurface50 [Mesh]",
+  "  polySurface51 [Mesh]",
+  "  polySurface52 [Mesh]",
+  "  polySurface53 [Mesh]",
+  "  polySurface54 [Mesh]",
+  "  polySurface55 [Mesh]",
+  "pCylinder128 [Mesh]",
+  "pCylinder94 [Mesh]",
+  "pCylinder97 [Mesh]",
+  "pPlane16 [Mesh]",
+  "pPlane23 [Mesh]",
+  "pPlane6 [Mesh]",
+  "pPlane7 [Mesh]",
+  "polySurface142 [Mesh]",
+  "polySurface152 [Mesh]",
+  "polySurface153 [Mesh]",
+  "polySurface164 [Mesh]",
+  "polySurface165 [Mesh]",
+  "sweep22 [Mesh]",
+  "... +4 more roots"
+ ],
+ "root_transforms": [
+  {
+   "name": "Broom_Creeper_xfqicgrqx_Var12_LOD0",
+   "T": [
+    1218.922,
+    -39.835,
+    -876.784
+   ],
+   "R": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "name": "Broom_Creeper_xfqicgrqx_Var12_LOD1",
+   "T": [
+    1236.335,
+    -39.835,
+    -858.321
+   ],
+   "R": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "name": "Broom_Creeper_xfqicgrqx_Var12_LOD2",
+   "T": [
+    882.782,
+    54.188,
+    -772.533
+   ],
+   "R": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "name": "Broom_Creeper_xfqicgrqx_Var3_LOD0",
+   "T": [
+    1241.293,
+    -85.351,
+    -861.001
+   ],
+   "R": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "name": "Broom_Creeper_xfqicgrqx_Var3_LOD1",
+   "T": [
+    889.138,
+    251.399,
+    -569.253
+   ],
+   "R": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "name": "Broom_Creeper_xfqicgrqx_Var3_LOD2",
+   "T": [
+    1036.909,
+    340.486,
+    -898.888
+   ],
+   "R": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "name": "Broom_Creeper_xfqicgrqx_Var3_LOD3",
+   "T": [
+    1016.526,
+    340.486,
+    -892.572
+   ],
+   "R": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "name": "Broom_Creeper_xfqicgrqx_Var3_LOD4",
+   "T": [
+    -530.798,
+    755.154,
+    389.216
+   ],
+   "R": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "name": "Broom_Creeper_xfqicgrqx_Var3_LOD5",
+   "T": [
+    377.614,
+    449.006,
+    -47.68
+   ],
+   "R": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "name": "Broom_Creeper_xfqicgrqx_Var6_LOD0",
+   "T": [
+    679.08,
+    53.9,
+    773.804
+   ],
+   "R": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "name": "Broom_Creeper_xfqicgrqx_Var6_LOD1",
+   "T": [
+    1292.072,
+    -48.22,
+    438.46
+   ],
+   "R": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "name": "Broom_Creeper_xfqicgrqx_Var6_LOD2",
+   "T": [
+    1282.08,
+    -42.759,
+    470.914
+   ],
+   "R": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "name": "Broom_Creeper_xfqicgrqx_Var7_LOD0",
+   "T": [
+    997.219,
+    113.927,
+    807.77
+   ],
+   "R": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "name": "Broom_Creeper_xfqicgrqx_Var7_LOD1",
+   "T": [
+    869.571,
+    250.816,
+    672.286
+   ],
+   "R": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "name": "Broom_Creeper_xfqicgrqx_Var7_LOD2",
+   "T": [
+    930.955,
+    231.671,
+    738.274
+   ],
+   "R": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "S": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  }
+ ],
+ "skeleton": {
+  "bone_count": 0,
+  "bones": []
+ },
+ "skin": {
+  "skins": 0,
+  "clusters": 0,
+  "blendshapes": 0
+ },
+ "poses": [],
+ "materials": [
+  {
+   "name": "Broom_Creeper_Mat",
+   "shading": "Phong",
+   "diffuse": [
+    0.012,
+    0.023,
+    0.007
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": 0.0,
+   "textures": [
+    {
+     "slot": "TransparencyFactor",
+     "texture": "alpha_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\xfqicgrqx_2K_Opacity.jpg"
+    }
+   ]
+  },
+  {
+   "name": "Japanese Wood",
+   "shading": "Phong",
+   "diffuse": [
+    0.16,
+    0.055,
+    0.022
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "aiStandardSurface9",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface9_BaseColor.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface9_Roughness.png"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface4",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface4_BaseColor.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface4_Roughness.png"
+    }
+   ]
+  },
+  {
+   "name": "phong1",
+   "shading": "Phong",
+   "diffuse": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "emissive": null,
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\acc_phong1_BaseColor.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\acc_phong1_Roughness.png"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface14",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\top_roof_aiStandardSurface14_BaseColor.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\top_roof_aiStandardSurface14_Roughness.png"
+    },
+    {
+     "slot": "ReflectionFactor",
+     "texture": "metallic_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\top_roof_aiStandardSurface14_Metallic.png"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface15",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface15_BaseColor.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface15_Roughness.png"
+    },
+    {
+     "slot": "ReflectionFactor",
+     "texture": "metallic_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface15_Metallic.png"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface16",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface16_BaseColor.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface16_Roughness.png"
+    },
+    {
+     "slot": "ReflectionFactor",
+     "texture": "metallic_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface16_Metallic.png"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface12",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface12_BaseColor.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface12_Roughness.png"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface1",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\remainis_paarts_aiStandardSurface1_BaseCol.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\remainis_paarts_aiStandardSurface1_Roughne.png"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface7",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface7_BaseColor.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface7_Roughness.png"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface19",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface19_BaseColor.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface19_Roughness.png"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface10",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface10_BaseColor.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface10_Roughness.png"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface17",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface17_BaseColor.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface17_Roughness.png"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface6",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface6_BaseColor.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface6_Roughness.png"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface3",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface3_BaseColor.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface3_Roughness.png"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface13",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface13_BaseColor.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface13_Roughness.png"
+    }
+   ]
+  },
+  {
+   "name": "lambert1",
+   "shading": "Phong",
+   "diffuse": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "emissive": null,
+   "opacity": null,
+   "textures": []
+  },
+  {
+   "name": "aiStandardSurface2",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface2_BaseColor.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface2_Roughness.png"
+    },
+    {
+     "slot": "ReflectionFactor",
+     "texture": "metallic_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface2_Metallic.png"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface11",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface11_BaseColor.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface11_Roughness.png"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface8",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface8_BaseColor.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface8_Roughness.png"
+    },
+    {
+     "slot": "ReflectionFactor",
+     "texture": "metallic_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface8_Metallic.png"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface5",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface5_BaseColor.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface5_Roughness.png"
+    }
+   ]
+  },
+  {
+   "name": "aiStandardSurface18",
+   "shading": "Phong",
+   "diffuse": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "emissive": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "opacity": null,
+   "textures": [
+    {
+     "slot": "DiffuseColor",
+     "texture": "base_color_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\remainis_paarts_aiStandardSurface18_BaseCo.png"
+    },
+    {
+     "slot": "ShininessExponent",
+     "texture": "roughness_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\remainis_paarts_aiStandardSurface18_Roughn.png"
+    },
+    {
+     "slot": "ReflectionFactor",
+     "texture": "metallic_texture",
+     "file": "japanese-horyu-ji-temple-replica\\textures\\remainis_paarts_aiStandardSurface18_Metall.png"
+    }
+   ]
+  }
+ ],
+ "textures": [
+  {
+   "name": "alpha_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\xfqicgrqx_2K_Opacity.jpg",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\xfqicgrqx_2K_Opacity.jpg"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface9_BaseColor.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface9_BaseColor.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface9_Roughness.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface9_Roughness.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface4_BaseColor.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface4_BaseColor.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface4_Roughness.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface4_Roughness.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\acc_phong1_BaseColor.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\acc_phong1_BaseColor.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\acc_phong1_Roughness.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\acc_phong1_Roughness.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\top_roof_aiStandardSurface14_BaseColor.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\top_roof_aiStandardSurface14_BaseColor.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\top_roof_aiStandardSurface14_Roughness.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\top_roof_aiStandardSurface14_Roughness.png"
+  },
+  {
+   "name": "metallic_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\top_roof_aiStandardSurface14_Metallic.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\top_roof_aiStandardSurface14_Metallic.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface15_BaseColor.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface15_BaseColor.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface15_Roughness.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface15_Roughness.png"
+  },
+  {
+   "name": "metallic_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface15_Metallic.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface15_Metallic.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface16_BaseColor.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface16_BaseColor.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface16_Roughness.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface16_Roughness.png"
+  },
+  {
+   "name": "metallic_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface16_Metallic.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface16_Metallic.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface12_BaseColor.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface12_BaseColor.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface12_Roughness.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface12_Roughness.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\remainis_paarts_aiStandardSurface1_BaseCol.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\remainis_paarts_aiStandardSurface1_BaseCol.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\remainis_paarts_aiStandardSurface1_Roughne.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\remainis_paarts_aiStandardSurface1_Roughne.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface7_BaseColor.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface7_BaseColor.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface7_Roughness.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface7_Roughness.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface19_BaseColor.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface19_BaseColor.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface19_Roughness.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface19_Roughness.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface10_BaseColor.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface10_BaseColor.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface10_Roughness.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface10_Roughness.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface17_BaseColor.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface17_BaseColor.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface17_Roughness.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface17_Roughness.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface6_BaseColor.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface6_BaseColor.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface6_Roughness.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface6_Roughness.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface3_BaseColor.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface3_BaseColor.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface3_Roughness.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface3_Roughness.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface13_BaseColor.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface13_BaseColor.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface13_Roughness.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface13_Roughness.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface2_BaseColor.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface2_BaseColor.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface2_Roughness.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface2_Roughness.png"
+  },
+  {
+   "name": "metallic_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface2_Metallic.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface2_Metallic.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface11_BaseColor.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface11_BaseColor.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface11_Roughness.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface11_Roughness.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface8_BaseColor.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface8_BaseColor.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface8_Roughness.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface8_Roughness.png"
+  },
+  {
+   "name": "metallic_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface8_Metallic.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface8_Metallic.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface5_BaseColor.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface5_BaseColor.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface5_Roughness.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface5_Roughness.png"
+  },
+  {
+   "name": "base_color_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\remainis_paarts_aiStandardSurface18_BaseCo.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\remainis_paarts_aiStandardSurface18_BaseCo.png"
+  },
+  {
+   "name": "roughness_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\remainis_paarts_aiStandardSurface18_Roughn.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\remainis_paarts_aiStandardSurface18_Roughn.png"
+  },
+  {
+   "name": "metallic_texture",
+   "file": "C:\\Users\\gargi\\OneDrive\\Desktop\\gdit\\japanese-horyu-ji-temple-replica\\textures\\remainis_paarts_aiStandardSurface18_Metall.png",
+   "relative": "japanese-horyu-ji-temple-replica\\textures\\remainis_paarts_aiStandardSurface18_Metall.png"
+  }
+ ],
+ "videos": [
+  {
+   "name": "xfqicgrqx_2K_Opacity.jpg",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\xfqicgrqx_2K_Opacity.jpg",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface9_BaseColor.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface9_BaseColor.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface9_Roughness.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface9_Roughness.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface4_BaseColor.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface4_BaseColor.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface4_Roughness.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface4_Roughness.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "acc_phong1_BaseColor.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\acc_phong1_BaseColor.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "acc_phong1_Roughness.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\acc_phong1_Roughness.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "top_roof_aiStandardSurface14_BaseColor.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\top_roof_aiStandardSurface14_BaseColor.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "top_roof_aiStandardSurface14_Roughness.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\top_roof_aiStandardSurface14_Roughness.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "top_roof_aiStandardSurface14_Metallic.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\top_roof_aiStandardSurface14_Metallic.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface15_BaseColor.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface15_BaseColor.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface15_Roughness.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface15_Roughness.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface15_Metallic.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface15_Metallic.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface16_BaseColor.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface16_BaseColor.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface16_Roughness.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface16_Roughness.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface16_Metallic.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface16_Metallic.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface12_BaseColor.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface12_BaseColor.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface12_Roughness.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface12_Roughness.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "remainis_paarts_aiStandardSurface1_BaseCol.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\remainis_paarts_aiStandardSurface1_BaseCol.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "remainis_paarts_aiStandardSurface1_Roughne.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\remainis_paarts_aiStandardSurface1_Roughne.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface7_BaseColor.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface7_BaseColor.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface7_Roughness.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface7_Roughness.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface19_BaseColor.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface19_BaseColor.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface19_Roughness.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface19_Roughness.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface10_BaseColor.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface10_BaseColor.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface10_Roughness.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface10_Roughness.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface17_BaseColor.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface17_BaseColor.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface17_Roughness.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface17_Roughness.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface6_BaseColor.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface6_BaseColor.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface6_Roughness.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface6_Roughness.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface3_BaseColor.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface3_BaseColor.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface3_Roughness.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface3_Roughness.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface13_BaseColor.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface13_BaseColor.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface13_Roughness.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface13_Roughness.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface2_BaseColor.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface2_BaseColor.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface2_Roughness.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface2_Roughness.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface2_Metallic.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface2_Metallic.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface11_BaseColor.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface11_BaseColor.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface11_Roughness.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface11_Roughness.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface8_BaseColor.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface8_BaseColor.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface8_Roughness.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface8_Roughness.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface8_Metallic.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface8_Metallic.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface5_BaseColor.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface5_BaseColor.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "11.1_aiStandardSurface5_Roughness.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\11.1_aiStandardSurface5_Roughness.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "remainis_paarts_aiStandardSurface18_BaseCo.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\remainis_paarts_aiStandardSurface18_BaseCo.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "remainis_paarts_aiStandardSurface18_Roughn.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\remainis_paarts_aiStandardSurface18_Roughn.png",
+   "embedded_bytes": 0
+  },
+  {
+   "name": "remainis_paarts_aiStandardSurface18_Metall.png",
+   "file": "japanese-horyu-ji-temple-replica\\textures\\remainis_paarts_aiStandardSurface18_Metall.png",
+   "embedded_bytes": 0
+  }
+ ],
+ "animations": []
+}
